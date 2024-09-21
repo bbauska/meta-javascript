@@ -1,15 +1,39 @@
-# meta-javascript
+---
+title: |
+  #2 Programming with JavaScript
+  by meta/Coursera
+author: "bbauska"
+date first editted: "??/??/2024 ??+pm"
+date late editted: "9/20/2024 7+pm"
+output: 
+  markdown:
+    with some style
+---
+
+<h1 align="center">Programming with JavaScript</h2>
+
+<h6 align="center">(by meta/Coursera)</h6>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofm-inter-with-js ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 01/02. meta-javascript logo (01) ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image001.png"
+  style="width:15%;"
+  title=""
+  alt="."
+nbsp;nbsp;nbsp;nbsp;nbsp;
+<img src="./images/image002.png"
+  style="width:10%;"
+  title=""
+  alt="." />
+</p>
+
 2nd meta course on web development.  Many to follow on CSS, HTML, React and UIX from Coursera.
 
-# Programming with JavaScript
+<!-- ![](./images/image001.png){width="1.549261811023622in" height="0.5in"}![](./images/image002.png){width="1.0175437445319335in" height="0.5in"} -->
 
-(coursera/meta)
-
-![](./images/image001.png){width="1.549261811023622in"
-height="0.5in"}![](./images/image002.png){width="1.0175437445319335in"
-height="0.5in"}
-
-## About this Course
+### About this Course
 
 JavaScript is the programming language that powers the modern web. In
 this course, you will learn the basic concepts of web development with
@@ -19,9 +43,9 @@ JavaScript and discover interactive possibilities with modern JavaScript
 technologies. Finally, you will learn about the practice of testing code
 and how to write a unit test using Jest.
 
-# Module 1
+## Module 1
 
-## Introduction to Javascript
+### Introduction to Javascript
 
 In this module, you are introduced to JavaScript. You\'ll learn why
 JavaScript is so integral to software development. And you\'ll get an
@@ -43,18 +67,17 @@ learning objectives:
 -   Demonstrate how to use variables and output their value in the
     console
 
-#### 19 videos, 22 readings
+##### 19 videos, 22 readings
 
-1.  [**Video: **Introduction to Programming with
-    JavaScript](https://www.coursera.org/lecture/programming-with-javascript/introduction-to-programming-with-javascript-lJUVf)
+1.  <a href="https://www.coursera.org/lecture/programming-with-javascript/introduction-to-programming-with-javascript-lJUVf">Introduction to Programming with JavaScript</a>
 
-2.  **Video: **How is JavaScript used in the real world?
+2.  **How is JavaScript used in the real world?**
 
-3.  **Reading: **Course syllabus
+3.  **Course syllabus**
 
-4.  **Reading: **How to be successful in this course
+4.  **How to be successful in this course**
 
-5.  **Reading: **How to Position Yourself for a New Career
+5.  **How to Position Yourself for a New Career**
 
 6.  **Reading: **How to uncover job opportunities
 
