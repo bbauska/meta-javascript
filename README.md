@@ -6395,7 +6395,14 @@ The color now makes it obvious that the elements starts from the fifth
 column and spans eight columns.
 
 Let&apos;s add the other segments and then we&apos;ll examine the code again.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 147.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image147.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image147.png){width="6.5in" height="4.1194444444444445in"}  -->
 
 Let&apos;s examine the output again.
@@ -6520,7 +6527,14 @@ conventionally. Let&apos;s examine an example.
  
 
 ## Output:  
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 148.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image148.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- (./images/image148.png){width="5.0in" height="2.7146172353455817in"}  -->
 [Grid-based output presenting &quot;header, navigation, main area, and footer.&quot;]
 
@@ -6697,13 +6711,27 @@ commonly used CSS selectors.
 
 But before you explore them, let&apos;s briefly revise the ones you&apos;ve
 already covered.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 149.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image149.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image149.png){width="3.0in" height="2.7163867016622922in"}  -->
 You learned about element or type selectors.
 
 The element selector allows developers to select html elements based on
 their element type.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 150.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image150.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image150.png){width="3.0in" height="2.7163867016622922in"}  -->
 
 You also get ID selectors,
@@ -6712,7 +6740,14 @@ ID Selectors use the ID attribute of html element.
 
 Since the ID is unique within a web page, it allows the developer to
 select a specific element for styling.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 151.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image151.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image151.png){width="3.0in" height="2.7163867016622922in"}  -->
 You were introduced to class selectors. Class selectors allow you to select elements 
 based on the class attribute applied to them.
@@ -6736,14 +6771,28 @@ The attribute selector has a few syntax variations.
 Attribute selectors match the attribute of value for a given element.
 
 Can you recall what attributes and value mean?
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 152.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image152.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image152.png){width="5.0in" height="2.6837609361329835in"}  -->
 
 A quick recap, let&apos;s say you have a html image tag, img is the name of
 the tag, while src and alt are the names of its attributes.
 
 The actual name of the image file, first.jpeg is the value.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 153.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image153.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image153.png){width="5.0in" height="2.662671697287839in"}  -->
 
 Now let&apos;s explore an example of how attribute selectors can be used.
@@ -6756,14 +6805,28 @@ home, and the third class called about.
 
 With different variations of the attribute selectors you can target
 different attributes of the html.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 154.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image154.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image154.png){width="4.0in" height="3.123287401574803in"}  -->
 
 For instance, you can style all elements that have a defined class by
 adding class inside the square brackets.
 
 In this case, it will turn the second and third link green.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 155.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image155.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image155.png){width="4.0in" height="3.123287401574803in"}  -->
 
 Alternatively, you can target all three elements by inserting the href
@@ -6774,7 +6837,14 @@ In this case, it can be the text meta.
 
 Now all three links will be green because each link contains the word
 meta.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 156.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image156.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image156.png){width="4.0in" height="3.123287401574803in"}  -->
 
 Or you can target only the first element by adding the specific link as
@@ -6786,7 +6856,14 @@ of an attribute selector to modify it.
 
 This makes attribute selectors a very flexible styling tool, but let&apos;s
 move on to two other widely used selectors that you need to know about.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 157.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image157.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image157.png){width="5.0in" height="1.9545942694663168in"}  -->
 
 Nth-of-type and nth-child selectors, the syntax of these two selectors
@@ -6794,7 +6871,14 @@ is very similar.
 
 As their name suggests, these selectors target the nth-child or nth-type
 of a specified parent element, but what does parent mean exactly?
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 158.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image158.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image158.png){width="6.5in" height="4.215972222222222in"}  -->
 
 Well, say you have a few list elements in an unordered list element.
@@ -6808,7 +6892,14 @@ nth-child selectors to do that.
 
 Both will produce the same output, where the second list element will be
 colored aqua in this case.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 159.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image159.png"
+  style="width:2.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image159.png){width="2.5in" height="2.4502843394575677in"}  -->
 
 Another commonly used selector is the star selector, just like in many
@@ -6819,11 +6910,25 @@ It will affect all the elements in the html file.
 
 It is especially helpful when you want to reset the default settings and
 styles that browsers use before they apply your styling to the web page.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 160.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image160.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image160.png){width="5.0in" height="2.368589238845144in"}  -->
 
 Finally, did you know that you can group selectors?
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 161.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image161.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image161.png){width="4.0in" height="2.388888888888889in"}  -->
 
 If you want to apply the same styling to more than one type of element,
@@ -7040,7 +7145,14 @@ different groups of elements.
 
 CSS makes it possible to combine more than one selector so that you can
 apply rules to elements based on their relationship with one another.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 162.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image162.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image162.png){width="3.0in" height="3.145278871391076in"}  -->
 4 main types of combination selectors.
 Descendant selectors, child selectors, general sibling selectors, and
@@ -7060,7 +7172,14 @@ family.
 You pick a person in the family and then select all descendants, such as
 children, grandchildren and great grandchildren, who have, say, brown
 hair.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 163.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image163.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image163.png){width="3.0in" height="3.138888888888889in"}  -->
 
 For example, you can have an HTML file with a div tag, and its ID
@@ -7068,13 +7187,27 @@ attributes set to blog, inside the div tag are a few heading tags.
 
 In this example, all h1 elements are descendants of the element with the
 ID blog.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 164.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image164.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image164.png){width="6.0in" height="2.9967946194225723in"}  -->
 
 So, to make all the h1 descendants blue, you can add the ID selector
 hash #blog followed by the h1 selector with a space in between and then
 the properties in curly brackets.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 165.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image165.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image165.png){width="6.0in" height="2.9967946194225723in"}  -->
 
 Child selectors on the other hand are more specific than descendant
@@ -7090,7 +7223,14 @@ The effect is that now only the first h1 element turns blue.
 
 This is because it is the only h1 element that is a child of the element
 with the blog id attribute.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 166.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image166.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image166.png){width="6.0in" height="2.9967946194225723in"}  -->
 
 Next, let&apos;s focus on general sibling selectors, which apply rules to
@@ -7115,7 +7255,14 @@ another element.
 
 Once again, if you think about a family, this selector selects a person
 and then selects the next younger brothers.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 167.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image167.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image167.png){width="6.0in" height="2.9967946194225723in"}  -->
 
 Finally, let&apos;s replace the tilde with a plus sign to update this
@@ -7151,7 +7298,14 @@ So, there is another paragraph tag, a div tag, and then an ordered list
 with two list items.
 
 Now, let&apos;s inspect the CSS rules.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 168.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image168.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image168.png){width="6.0in" height="2.9967946194225723in"}  -->
 
 First, I set basic rules for the html body.
@@ -7180,7 +7334,14 @@ Thereafter, you need to specify the color of the shadow, which in this
 case is set to gray.
 
 So what elements will be styled?
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 169.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image169.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image169.png){width="6.0in" height="2.9967946194225723in"}  -->
 
 Remember, sibling selectors apply rules to all the selectors of the same
@@ -7194,7 +7355,14 @@ So, the rules will target the un ordered list that follows it.
 
 And again, the second div tag will also serve as a reference and the
 rules will affect the un ordered list that follows it.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 170.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image170.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image170.png){width="6.0in" height="3.1955129046369204in"}  -->
 
 Let&apos;s inspect the output.
@@ -7209,7 +7377,14 @@ The sibling selector only targets the items that follow the div tags.
 
 By now you should realize that you can use the sibling selector to
 efficiently apply the same styling to several elements with one rule.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 171.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image171.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image171.png){width="6.0in" height="3.1955129046369204in"}  -->
 
 If there is another instance where an un ordered list follows a div tag
@@ -7217,7 +7392,14 @@ on this page, it will also have a box shadow.
 
 But say the page has other un ordered lists that do not follow a div
 tag, the styling will not be applied to those elements.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 172.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image172.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image172.png){width="6.0in" height="3.1955129046369204in"}  -->
 
 Next, I will demonstrate how to use the adjacent selector.
