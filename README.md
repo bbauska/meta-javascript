@@ -4896,10 +4896,15 @@ columns using row-gap and column-gap properties.
 ```
 
 ##### Output:
-
-![Display of items with different
-spacing](./images/image102.png){width="2.8645833333333335in"
-height="3.34375in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 102  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image102.png"
+  style="width:2.8in;"
+  title="Display of items with different spacing"
+  alt="Display of items with different spacing."
+</p>
+<!-- (./images/image102.png){width="2.8645833333333335in" height="3.34375in"}  -->
 
 There is a clear change in spacing between the items.
 
@@ -4934,10 +4939,15 @@ it to default 'row' and the output will again be centrally aligned and
 horizontal best-distributed between two rows.
 
 ## Output:
-
-![List of items as default raw modified by removing the flex
-direction](./images/image103.png){width="4.625in"
-height="1.5416666666666667in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 103.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image103.png"
+  style="width:4.6in;"
+  title="List of items as default raw modified by removing the flex direction"
+  alt="List of items as default raw modified by removing the flex direction."
+</p>
+<!-- (./images/image103.png){width="4.625in" height="1.5416666666666667in"}
 
 The rest of the remaining code is unchanged. However, the output will
 change if the code is modified with the addition of the flex property
@@ -4955,9 +4965,16 @@ inside the flex item box3 class.
 
 ##### Output:
 
-![Different spacing of items in row
-display](./images/image104.png){width="4.697916666666667in"
-height="1.84375in"}
+
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 104.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image104.png"
+  style="width:4.6in;"
+  title="Different spacing of items in row display"
+  alt="Different spacing of items in row display."
+</p>
+<!-- (./images/image104.png){width="4.697916666666667in" height="1.84375in"}  -->
 
 The third box now takes up the entire free space available because
 flex-growth's value has been set to 1. So if we have <b>flex-grow</b> set
@@ -5084,32 +5101,59 @@ You will discover simple ways in which you can utilize flexboxes for
 binding elements together or creating an easy layout.
 
 Let&apos;s explore the three most common uses of flexbox is in CSS.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 105.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image105.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image105.png){width="3.0in" height="0.5715277777777777in"}  -->
 
-![](./images/image105.png){width="3.0in"
-height="0.5715277777777777in"}The first application of flexbox that you
+The first application of flexbox that you
 will cover that is commonly used is a search bar.
 
 You can use flex in search bars because it ties up all the elements,
 such as the small Search icon, the search input area, and the Submit
 button.
-
-![](./images/image106.png){width="6.5in"
-height="0.7138888888888889in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 106.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image106.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image106.png){width="6.5in" height="0.7138888888888889in"}  -->
 
 Next, you can create the navigation bar using flex, which consists of
 several different layouts, and it makes your navigation bar highly
 responsive on different devices.
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 107.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image107.png"
+  style="width:2.0in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image107.png){width="2.0in" height="1.6397517497812772in"}  -->
 
-![](./images/image107.png){width="2.0in"
-height="1.6397517497812772in"}Finally, another type of flexbox that is
-commonly used is an image gallery.
+Finally, another type of flexbox that is commonly used is an image gallery.
 
 Flexes helpful here is it can realign itself as you change the size of
 the window. In the next few minutes, you will discover how to create
 these flexboxes to ensure a simple layout.
-
-![](./images/image108.png){width="6.5in"
-height="3.2194444444444446in"}
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 108.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image108.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image108.png){width="6.5in" height="3.2194444444444446in"}  -->
 
 In the first example of a flexbox file, I will create a search bar, I
 add a reference to the CSS file in the head section of the HTML page.
@@ -5119,9 +5163,17 @@ After that, I add content inside the body section of our HTML code.
 I first create a container class with a div tag. Inside this container,
 I have three different elements, which are the search icon, the search
 box where I typed my search, and finally the Submit button.
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 109.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image109.png"
+  style="width:3.1in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image109.png){width="3.1875in" height="4.958333333333333in"}  -->
 
-![](./images/image109.png){width="3.1875in"
-height="4.958333333333333in"}In the CSS code, I first write rules for
+In the CSS code, I first write rules for
 the container, then for the search icon, the search box, and finally for
 the button.
 
@@ -5157,14 +5209,19 @@ change.
 
 Another place where flexbox is used quite frequently is in navigation
 menus.
-
-![](./images/image110.png){width="3.4166666666666665in"
-height="1.5345330271216098in"}
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 110.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image110.png"
+  style="width:3.4in;"
+  title=""
+  alt="."
+</p>
+![](.<!-- /images/image110.png){width="3.4166666666666665in" height="1.5345330271216098in"}  -->
 
 In this case, I created an unordered list that consists of four items.
 
-![](./images/image111.png){width="3.0729166666666665in"
-height="4.729166666666667in"}
+<!-- ![](./images/image111.png){width="3.0729166666666665in" height="4.729166666666667in"}  -->
 
 Notice that in my CSS code I use something called a star or universal
 selector.
@@ -5198,8 +5255,7 @@ horizontal navigation menu.
 One final flexbox example that I will demonstrate is a responsive image
 gallery.
 
-![](./images/image112.png){width="6.5in"
-height="3.2416666666666667in"}
+<!-- ![](./images/image112.png){width="6.5in" height="3.2416666666666667in"}  -->
 
 All the elements for the gallery are in the body of the HTML file.
 
@@ -5217,8 +5273,9 @@ border to zero.
 
 Next, let&apos;s focus on the container.
 
-![](./images/image113.png){width="3.375in"
-height="4.052083333333333in"}First, I set the value of display to flex,
+<!-- ![](./images/image113.png){width="3.375in" height="4.052083333333333in"}  -->
+
+First, I set the value of display to flex,
 then I add the flex-wrap property which determines whether the flex
 items should be forced in one line or should wrap over multiple lines.
 
@@ -5276,8 +5333,7 @@ These bar charts are called flex charts.
 The most important property when using flex is the flex property that in
 turn has the following three sub properties.
 
-![](./images/image114.png){width="3.0in"
-height="0.25416666666666665in"}
+<!-- ![](./images/image114.png){width="3.0in" height="0.25416666666666665in"}  -->
 
 Flex grow, which specifies how much the item will grow compared to other
 flexible items, flex shrink, which specifies how much the item will
@@ -5285,8 +5341,7 @@ shrink compared to other flexible items.
 
 And flex basis, which specifies the initial length of the flexible item.
 
-![](./images/image115.png){width="5.0in"
-height="0.9262828083989502in"}
+<!-- ![](./images/image115.png){width="5.0in" height="0.9262828083989502in"}  -->
 
 Flex property can be declared with something called a shorthand notation
 such as flex 01 auto, where 01 and auto are the default values for the
@@ -5301,8 +5356,7 @@ website to draw attention to their most popular dishes.
 
 I&apos;ve been asked to write code to make this possible.
 
-![](./images/image116.png){width="5.125in"
-height="4.916666666666667in"}
+<!-- ![](./images/image116.png){width="5.125in" height="4.916666666666667in"}  -->
 
 I&apos;ve set up my basic html document structure in a file named flex
 charts dot html.
@@ -5322,15 +5376,13 @@ add the name of the label preferred dishes.
 Next, I create another class called container by typing dot container
 and then I press enter.
 
-![](./images/image117.png){width="6.5in"
-height="4.179861111111111in"}
+<!-- ![](./images/image117.png){width="6.5in" height="4.179861111111111in"}  -->
 
 Inside the container I create a class called dish by typing dot dish and
 pressing enter as there are three dishes in the popular list, I copy and
 paste this item twice.
 
-![](./images/image118.png){width="6.5in"
-height="4.179861111111111in"}
+<!-- ![](./images/image118.png){width="6.5in" height="4.179861111111111in"}  -->
 
 To distinguish between the dishes, I add a class name for each of the
 items after the word dish I name item one pasta, item two, pizza and
@@ -5351,8 +5403,7 @@ Finally, I add the respective labels for each dish.
 To do this, I add the percentage between the angle brackets at the end
 of each item.
 
-![](./images/image119.png){width="6.5in"
-height="3.7784722222222222in"}
+<!-- ![](./images/image119.png){width="6.5in" height="3.7784722222222222in"}  -->
 
 Now that my code is created, I move to CSS by clicking on the flex
 charts dot CSS file at the top of my screen and checking that it&apos;s
@@ -5405,14 +5456,14 @@ The output preferred dishes and the percentage is 35, 50 and 15 appear
 on my screen, to improve the visuals of my chart and make it easier to
 interpret.
 
-![](./images/image120.png){width="6.5in"
-height="3.7784722222222222in"}
+![](.<!-- /images/image120.png){width="6.5in" height="3.7784722222222222in"}  -->
 
 I&apos;m going to add individual colors to the chart items at the bottom of
 my CSS file I press enter twice and type dot pasta.
 
-![](./images/image121.png){width="4.0in"
-height="1.0751706036745408in"}I press enter and within this div class I
+<!-- ![](./images/image121.png){width="4.0in" height="1.0751706036745408in"}  -->
+
+I press enter and within this div class I
 add background color, followed by the hex code of the color I want to
 use in the next line.
 
@@ -5426,8 +5477,7 @@ background colors as indicated.
 What&apos;s important to note here is that as you change the size of the web
 page, the flex adjusts itself while the label remains unchanged.
 
-![](./images/image122.png){width="6.333333333333333in"
-height="5.041666666666667in"}
+<!-- ![](./images/image122.png){width="6.333333333333333in" height="5.041666666666667in"}  -->
 
 The next example is very similar to the one I created for the earlier
 bar charts.
@@ -5436,9 +5486,9 @@ In this example, when I create horizontal objects, I first add four
 containers for male and female and then I set the flex spaces for each
 of them.
 
-![](./images/image123.png){width="3.0in"
-height="3.6488549868766404in"}If you look at my CSS code, I follow the
-same order.
+<!-- ![](./images/image123.png){width="3.0in" height="3.6488549868766404in"}  -->
+
+If you look at my CSS code, I follow the same order.
 
 First, I address the columns which is the outermost container, then the
 class container.
@@ -5453,14 +5503,12 @@ horizontal bar charts.
 When I display the output of this code, the male and female classes are
 stacked on top of each other.
 
-![](./images/image124.png){width="4.09375in"
-height="3.0208333333333335in"}
+<!-- ![](./images/image124.png){width="4.09375in" height="3.0208333333333335in"}  -->
 
 What alignment to use may or may not come intuitively, but if you look
 at a few more examples, it will start making sense.
 
-![](./images/image125.png){width="6.5in"
-height="3.7527777777777778in"}
+<!-- ![](./images/image125.png){width="6.5in" height="3.7527777777777778in"}  -->
 
 Like in this case the container contains male and female classes that
 need to be stacked on top of each other, which is why I have used flex
@@ -5490,8 +5538,7 @@ Let&apos;s learn more about layouts.
 When someone says the word grid, you probably think of lines that cross
 each other to form squares or rectangles.
 
-![](./images/image126.png){width="5.0in"
-height="2.8867530621172355in"}
+<!-- ![](./images/image126.png){width="5.0in" height="2.8867530621172355in"}  -->
 
 CSS Grids are two-dimensional design layouts that are responsive and
 compatible with browser variations.
@@ -5502,14 +5549,12 @@ especially when you are working with larger scale layouts.
 Columns are the vertical tracks and rows are the horizontal tracks in
 your viewport.
 
-![](./images/image127.png){width="6.5in"
-height="3.6326388888888888in"}
+<!-- ![](./images/image127.png){width="6.5in" height="3.6326388888888888in"}  -->
 
 Grids divide the page into rows and columns, and the space between these
 tracks are called gutters or gaps.
 
-![](./images/image128.png){width="6.5in"
-height="3.540277777777778in"}
+<!-- ![](./images/image128.png){width="6.5in" height="3.540277777777778in"}  -->
 
 A cell is the space in a grid container where a row and column
 intersect.
@@ -11060,3 +11105,4 @@ a simple, fast, and scalable app. Be sure to take the next course. It's
 your chance to gain further insight into the world of software
 development.
 
+...the end
