@@ -5,6 +5,7 @@ title: |
 author: "bbauska"
 date first editted: "??/??/2024 ??+pm"
 date late editted: "9/20/2024 7+pm"
+date late editted: "8/8/2025 9+pm"
 output: 
   markdown:
     with some style
@@ -14,19 +15,19 @@ output:
 
 <h6 align="center">(by meta/Coursera)</h6>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ readme.md of uofm-inter-with-js ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ index.html of meta-javascript ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 01/02. meta-javascript logo (01) ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image001.png"
-  style="width:15%;"
-  title=""
-  alt="."
+  style="width:1.5in;"
+  title="Coursera logo"
+  alt="Coursera logo."
 nbsp;nbsp;nbsp;nbsp;nbsp;
 <img src="./images/image002.png"
-  style="width:10%;"
-  title=""
-  alt="." />
+  style="width:1.5in;"
+  title="Meta logo"
+  alt="Meta logo." />
 </p>
 
 2nd meta course on web development.  Many to follow on CSS, HTML, React and UIX from Coursera.
