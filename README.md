@@ -22,8 +22,9 @@ output:
 <img src="./images/image001.png"
   style="width:1.5in;"
   title="Coursera logo"
-  alt="Coursera logo."
-nbsp;nbsp;nbsp;nbsp;nbsp;
+  alt="Coursera logo." />
+
+<p align="center" width="100%">
 <img src="./images/image002.png"
   style="width:1.5in;"
   title="Meta logo"
