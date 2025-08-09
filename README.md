@@ -5220,7 +5220,14 @@ menus.
 ![](.<!-- /images/image110.png){width="3.4166666666666665in" height="1.5345330271216098in"}  -->
 
 In this case, I created an unordered list that consists of four items.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 111.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image111.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image111.png){width="3.0729166666666665in" height="4.729166666666667in"}  -->
 
 Notice that in my CSS code I use something called a star or universal
@@ -5254,7 +5261,14 @@ horizontal navigation menu.
 
 One final flexbox example that I will demonstrate is a responsive image
 gallery.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 112.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image112.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image112.png){width="6.5in" height="3.2416666666666667in"}  -->
 
 All the elements for the gallery are in the body of the HTML file.
@@ -5272,7 +5286,14 @@ I then reset the basic alignment options for the images by setting the
 border to zero.
 
 Next, let&apos;s focus on the container.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 113.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image113.png"
+  style="width:3.3in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image113.png){width="3.375in" height="4.052083333333333in"}  -->
 
 First, I set the value of display to flex,
@@ -5332,6 +5353,14 @@ These bar charts are called flex charts.
 
 The most important property when using flex is the flex property that in
 turn has the following three sub properties.
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 114.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image114.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 
 <!-- ![](./images/image114.png){width="3.0in" height="0.25416666666666665in"}  -->
 
@@ -5340,7 +5369,14 @@ flexible items, flex shrink, which specifies how much the item will
 shrink compared to other flexible items.
 
 And flex basis, which specifies the initial length of the flexible item.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 115.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image115.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image115.png){width="5.0in" height="0.9262828083989502in"}  -->
 
 Flex property can be declared with something called a shorthand notation
@@ -5355,7 +5391,14 @@ The management of little Lemon decided to publish the results on their
 website to draw attention to their most popular dishes.
 
 I&apos;ve been asked to write code to make this possible.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 116.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image116.png"
+  style="width:5.1in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image116.png){width="5.125in" height="4.916666666666667in"}  -->
 
 I&apos;ve set up my basic html document structure in a file named flex
@@ -5375,13 +5418,27 @@ add the name of the label preferred dishes.
 
 Next, I create another class called container by typing dot container
 and then I press enter.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 117.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image117.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image117.png){width="6.5in" height="4.179861111111111in"}  -->
 
 Inside the container I create a class called dish by typing dot dish and
 pressing enter as there are three dishes in the popular list, I copy and
 paste this item twice.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 118.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image118.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image118.png){width="6.5in" height="4.179861111111111in"}  -->
 
 To distinguish between the dishes, I add a class name for each of the
@@ -5402,7 +5459,14 @@ Finally, I add the respective labels for each dish.
 
 To do this, I add the percentage between the angle brackets at the end
 of each item.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 119.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image119.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image119.png){width="6.5in" height="3.7784722222222222in"}  -->
 
 Now that my code is created, I move to CSS by clicking on the flex
@@ -5455,12 +5519,26 @@ screen.
 The output preferred dishes and the percentage is 35, 50 and 15 appear
 on my screen, to improve the visuals of my chart and make it easier to
 interpret.
-
-![](.<!-- /images/image120.png){width="6.5in" height="3.7784722222222222in"}  -->
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 120.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image120.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
+<!-- /images/image120.png){width="6.5in" height="3.7784722222222222in"}  -->
 
 I&apos;m going to add individual colors to the chart items at the bottom of
 my CSS file I press enter twice and type dot pasta.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 121.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image121.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image121.png){width="4.0in" height="1.0751706036745408in"}  -->
 
 I press enter and within this div class I
@@ -5476,7 +5554,14 @@ background colors as indicated.
 
 What&apos;s important to note here is that as you change the size of the web
 page, the flex adjusts itself while the label remains unchanged.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 122.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image122.png"
+  style="width:6.3in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image122.png){width="6.333333333333333in" height="5.041666666666667in"}  -->
 
 The next example is very similar to the one I created for the earlier
@@ -5485,7 +5570,14 @@ bar charts.
 In this example, when I create horizontal objects, I first add four
 containers for male and female and then I set the flex spaces for each
 of them.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 123.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image123.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image123.png){width="3.0in" height="3.6488549868766404in"}  -->
 
 If you look at my CSS code, I follow the same order.
@@ -5502,12 +5594,26 @@ horizontal bar charts.
 
 When I display the output of this code, the male and female classes are
 stacked on top of each other.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 124.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image124.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image124.png){width="4.09375in" height="3.0208333333333335in"}  -->
 
 What alignment to use may or may not come intuitively, but if you look
 at a few more examples, it will start making sense.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 125.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image125.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image125.png){width="6.5in" height="3.7527777777777778in"}  -->
 
 Like in this case the container contains male and female classes that
@@ -5537,7 +5643,14 @@ Let&apos;s learn more about layouts.
 
 When someone says the word grid, you probably think of lines that cross
 each other to form squares or rectangles.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 126.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image126.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image126.png){width="5.0in" height="2.8867530621172355in"}  -->
 
 CSS Grids are two-dimensional design layouts that are responsive and
@@ -5548,12 +5661,26 @@ especially when you are working with larger scale layouts.
 
 Columns are the vertical tracks and rows are the horizontal tracks in
 your viewport.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 127.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image127.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image127.png){width="6.5in" height="3.6326388888888888in"}  -->
 
 Grids divide the page into rows and columns, and the space between these
 tracks are called gutters or gaps.
-
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 128.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image128.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image128.png){width="6.5in" height="3.540277777777778in"}  -->
 
 A cell is the space in a grid container where a row and column
@@ -5564,10 +5691,17 @@ modify grids.
 
 Let&apos;s examine an example that uses a HTML document to demonstrate how
 to iteratively make changes to a grid.
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 129.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image129.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image129.png){width="3.0in" height="3.720317147856518in"}  -->
 
-![](./images/image129.png){width="3.0in"
-height="3.720317147856518in"}First, let&apos;s create a HTML document called
-index.html.
+First, let&apos;s create a HTML document called index.html.
 
 Right now, the contents displayed in the viewport are just a vertical
 series of letters from A to E without any styling.
@@ -5586,10 +5720,16 @@ necessary for its size.
 
 What&apos;s displayed in the viewport may appear to be a grid, but it&apos;s not
 actually one.
-
-![](./images/image130.png){width="3.0in"
-height="3.118733595800525in"}It&apos;s just the default settings of CSS for
-a layout.
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 130.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image130.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image130.png){width="3.0in" height="3.118733595800525in"}  -->
+It&apos;s just the default settings of CSS for a layout.
 
 Once you convert this into the grid layout, you&apos;ll be able to recognize
 the flexibility it can add.
@@ -5603,15 +5743,27 @@ The display property is also used to set display types for other designs
 such as flex, block, inline, and so on.
 
 It&apos;s usually a part of container elements inside our code.
-
-![](./images/image131.png){width="6.5in"
-height="3.886111111111111in"}
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 131.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image131.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image131.png){width="6.5in" height="3.886111111111111in"}  -->
 
 The updated container now has the display property value set to grid and
 the property values configured for three columns and two rows.
-
-![](./images/image132.png){width="6.5in"
-height="2.8604166666666666in"}
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 132.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image132.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image132.png){width="6.5in" height="2.8604166666666666in"}  -->
 
 That&apos;s two changes from the previous configuration.
 
@@ -5619,9 +5771,15 @@ Let&apos;s examine them.
 
 The grid template columns property has been added into the CSS code to
 set the size of each of the three columns using pixel values.
-
-![](./images/image133.png){width="6.5in"
-height="2.736111111111111in"}
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 133.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image133.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image133.png){width="6.5in" height="2.736111111111111in"}  -->
 
 The use of fr, which is an abbreviation for fraction, has been
 introduced.
@@ -5642,9 +5800,15 @@ actual pixel sizes.
 
 It must be noted though, that fraction and pixel sizes can be used
 interchangeably with both rows and columns.
-
-![](./images/image134.png){width="6.5in"
-height="2.7805555555555554in"}
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 134.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image134.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image134.png){width="6.5in" height="2.7805555555555554in"}  -->
 
 Now to add a couple of properties such as grid gap or gutter and
 background color to define the grid, the updated view displays a red box
@@ -5657,18 +5821,30 @@ more space between the grid cells.
 
 You can also opt to use the auto properties such as grid, auto rows and
 grid auto columns collectively called the implicit grid.
-
-![](./images/image135.png){width="6.5in"
-height="2.7805555555555554in"}
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 135.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image135.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image135.png){width="6.5in" height="2.7805555555555554in"}  -->
 
 Let&apos;s replace the grid template rows property in the code with grid
 auto rows. All the rows are now auto-resized to 100 pixels.
 
 Now let&apos;s examine some of the functions that can make configuring the
 layout easier.
-
-![](./images/image136.png){width="6.5in"
-height="2.7805555555555554in"}
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 136.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image136.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image136.png){width="6.5in" height="2.7805555555555554in"}  -->
 
 First, the repeat function passes the number of repeats required for a
 given number of rows and columns.
@@ -5679,9 +5855,15 @@ reduced the amount of code you need to write.
 
 Therefore, the repeat function helps reduce redundancy and provides ease
 of code modification.
-
-![](./images/image137.png){width="6.5in"
-height="2.7805555555555554in"}
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 137.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image137.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image137.png){width="6.5in" height="2.7805555555555554in"}  -->
 
 Next, the min-max function sets the minimum and maximum values expected
 for the sizes of rows and columns.
@@ -5856,8 +6038,7 @@ cross axis and block axis
 
 <b>place-content: center &#124; start</b>
 
-This feature allows you align items with the block and inline
-directions.
+This feature allows you align items with the block and inline directions.
 
 #### Positioning
 
@@ -5883,8 +6064,7 @@ Allows for specifying where on the grid the column is to start.
 
 <b>grid-column-start: column start position</b>
 
-This property determines the starting column position an item is placed
-on a grid.
+This property determines the starting column position an item is placed on a grid.
 
 <b>grid-column-end: column end position</b>
 
@@ -5897,8 +6077,7 @@ Allows for specifying where on the grid the row is to start.
 
 <b>grid-row-start: row start position</b>
 
-This property determines the starting row position an item is placed on
-a grid.
+This property determines the starting row position an item is placed on a grid.
 
 <b>grid-row-end: row end position</b>
 
@@ -6045,10 +6224,17 @@ Let&apos;s start by examining the grid layout named the pancake stack.
 I&apos;ve opened extra.HTML in Visual Studio Code.
 
 Now I can start adding the different elements.
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 140.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image140.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image140.png){width="3.0in" height="2.3651159230096237in"}  -->
 
-![](./images/image140.png){width="3.0in"
-height="2.3651159230096237in"}First is the restaurant&apos;s name, little
-lemon, which I put into the header.
+First is the restaurant&apos;s name, little lemon, which I put into the header.
 
 In the main element, I type menu and for the footer, I type About Us.
 
@@ -6058,10 +6244,16 @@ First of all, write the rules for the body, followed by the header name
 and then the footer.
 
 First for the body, I need to use the display property to code the grid.
-
-![](./images/image141.png){width="3.0in"
-height="2.3651159230096237in"}I define as high as 150 VH. One VH is
-equal to 1 percent of the viewport height.
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 141.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image141.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image141.png){width="3.0in" height="2.3651159230096237in"}  -->
+I define as high as 150 VH. One VH is equal to 1 percent of the viewport height.
 
 Now, I add the grid template rows property that will track the sizing
 functions for the grid rows.
@@ -6079,10 +6271,17 @@ height.
 Let&apos;s examine the output.
 
 It looks good.
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 142.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image142.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image142.png){width="3.0in" height="2.9506944444444443in"}  -->
 
-![](./images/image142.png){width="3.0in"
-height="2.9506944444444443in"}I&apos;m going to do the same for the main and
-the footer elements.
+I&apos;m going to do the same for the main and the footer elements.
 
 I&apos;ve changed the colors, but everything else is the same.
 
@@ -6100,10 +6299,16 @@ equal size.
 
 One can add different elements to the grid by determining their starting
 point and the number of columns each element spans.
-
-![](./images/image143.png){width="3.75in"
-height="3.426025809273841in"}Don&apos;t worry, this will all become a lot
-clearer when I go through the following example.
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 143.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image143.png"
+  style="width:3.75in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image143.png){width="3.75in" height="3.426025809273841in"}  -->
+Don&apos;t worry, this will all become a lot clearer when I go through the following example.
 
 I&apos;m opening gridtwelve.html in Visual Studio code.
 
@@ -6124,9 +6329,15 @@ individual segments are defined.
 For the parent class, I write display grid and then add the grid
 template columns property, which I&apos;m going to repeat 12 times with one
 fraction each.
-
-![](./images/image144.png){width="6.5in"
-height="3.0347222222222223in"}
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 144.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image144.png"
+  style="width:6.5in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image144.png){width="6.5in" height="3.0347222222222223in"}  -->
 
 Next, I define the properties of the segment.
 
@@ -6141,8 +6352,15 @@ Now, let&apos;s set the properties for the different segments.
 
 The first one spends 12 columns, I start by adding a light green
 background.
-
-![](./images/image145.png){width="4.46875in" height="4.40625in"}
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 145.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image145.png"
+  style="width:4.4in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image145.png){width="4.46875in" height="4.40625in"}  -->
 
 The next part is important.
 
@@ -6161,8 +6379,15 @@ Let&apos;s add another selector for eight.
 Again, I copy the same code, but instead of starting from the first
 column this time, I&apos;ll start from say, the fifth column, and it will
 span across eight columns.
-
-![](./images/image146.png){width="4.46875in" height="4.40625in"}
+!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 146.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image146.png"
+  style="width:4.4in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image146.png){width="4.46875in" height="4.40625in"}  -->
 
 Let&apos;s change the color here to bisque.
 
@@ -6171,8 +6396,7 @@ column and spans eight columns.
 
 Let&apos;s add the other segments and then we&apos;ll examine the code again.
 
-![](./images/image147.png){width="6.5in"
-height="4.1194444444444445in"}
+<!-- ![](./images/image147.png){width="6.5in" height="4.1194444444444445in"}  -->
 
 Let&apos;s examine the output again.
 
@@ -6297,9 +6521,8 @@ conventionally. Let&apos;s examine an example.
 
 ## Output:  
 
-![Grid-based output presenting &quot;header, navigation, main area, and
-footer.&quot;](./images/image148.png){width="5.0in"
-height="2.7146172353455817in"}
+<!-- (./images/image148.png){width="5.0in" height="2.7146172353455817in"}  -->
+[Grid-based output presenting &quot;header, navigation, main area, and footer.&quot;]
 
 Though there are five sets of rules, logically the CSS code is divided
 into two sections. The first is where you define the rules for the grid
@@ -6475,15 +6698,13 @@ commonly used CSS selectors.
 But before you explore them, let&apos;s briefly revise the ones you&apos;ve
 already covered.
 
-![](./images/image149.png){width="3.0in"
-height="2.7163867016622922in"}You learned about element or type
-selectors.
+<!-- ![](./images/image149.png){width="3.0in" height="2.7163867016622922in"}  -->
+You learned about element or type selectors.
 
 The element selector allows developers to select html elements based on
 their element type.
 
-![](./images/image150.png){width="3.0in"
-height="2.7163867016622922in"}
+<!-- ![](./images/image150.png){width="3.0in" height="2.7163867016622922in"}  -->
 
 You also get ID selectors,
 
@@ -6492,10 +6713,9 @@ ID Selectors use the ID attribute of html element.
 Since the ID is unique within a web page, it allows the developer to
 select a specific element for styling.
 
-![](./images/image151.png){width="3.0in"
-height="2.7163867016622922in"}You were introduced to class selectors.
-Class selectors allow you to select elements based on the class
-attribute applied to them.
+<!-- ![](./images/image151.png){width="3.0in" height="2.7163867016622922in"}  -->
+You were introduced to class selectors. Class selectors allow you to select elements 
+based on the class attribute applied to them.
 
 With class selectors, you can apply rules to all elements with the
 specified class name. Those are the CSS selectors you have learned about
@@ -6517,16 +6737,14 @@ Attribute selectors match the attribute of value for a given element.
 
 Can you recall what attributes and value mean?
 
-![](./images/image152.png){width="5.0in"
-height="2.6837609361329835in"}
+<!-- ![](./images/image152.png){width="5.0in" height="2.6837609361329835in"}  -->
 
 A quick recap, let&apos;s say you have a html image tag, img is the name of
 the tag, while src and alt are the names of its attributes.
 
 The actual name of the image file, first.jpeg is the value.
 
-![](./images/image153.png){width="5.0in"
-height="2.662671697287839in"}
+<!-- ![](./images/image153.png){width="5.0in" height="2.662671697287839in"}  -->
 
 Now let&apos;s explore an example of how attribute selectors can be used.
 
@@ -6539,16 +6757,14 @@ home, and the third class called about.
 With different variations of the attribute selectors you can target
 different attributes of the html.
 
-![](./images/image154.png){width="4.0in"
-height="3.123287401574803in"}
+<!-- ![](./images/image154.png){width="4.0in" height="3.123287401574803in"}  -->
 
 For instance, you can style all elements that have a defined class by
 adding class inside the square brackets.
 
 In this case, it will turn the second and third link green.
 
-![](./images/image155.png){width="4.0in"
-height="3.123287401574803in"}
+<!-- ![](./images/image155.png){width="4.0in" height="3.123287401574803in"}  -->
 
 Alternatively, you can target all three elements by inserting the href
 attribute, a star and a common value that is part of all the links that
@@ -6559,8 +6775,7 @@ In this case, it can be the text meta.
 Now all three links will be green because each link contains the word
 meta.
 
-![](./images/image156.png){width="4.0in"
-height="3.123287401574803in"}
+<!-- ![](./images/image156.png){width="4.0in" height="3.123287401574803in"}  -->
 
 Or you can target only the first element by adding the specific link as
 the value of the href attribute, that you want to target inside the
@@ -6572,8 +6787,7 @@ of an attribute selector to modify it.
 This makes attribute selectors a very flexible styling tool, but let&apos;s
 move on to two other widely used selectors that you need to know about.
 
-![](./images/image157.png){width="5.0in"
-height="1.9545942694663168in"}
+<!-- ![](./images/image157.png){width="5.0in" height="1.9545942694663168in"}  -->
 
 Nth-of-type and nth-child selectors, the syntax of these two selectors
 is very similar.
@@ -6581,8 +6795,7 @@ is very similar.
 As their name suggests, these selectors target the nth-child or nth-type
 of a specified parent element, but what does parent mean exactly?
 
-![](./images/image158.png){width="6.5in"
-height="4.215972222222222in"}
+<!-- ![](./images/image158.png){width="6.5in" height="4.215972222222222in"}  -->
 
 Well, say you have a few list elements in an unordered list element.
 
@@ -6596,8 +6809,7 @@ nth-child selectors to do that.
 Both will produce the same output, where the second list element will be
 colored aqua in this case.
 
-![](./images/image159.png){width="2.5in"
-height="2.4502843394575677in"}
+<!-- ![](./images/image159.png){width="2.5in" height="2.4502843394575677in"}  -->
 
 Another commonly used selector is the star selector, just like in many
 other programming languages, star selectors are used for selecting all
@@ -6608,13 +6820,11 @@ It will affect all the elements in the html file.
 It is especially helpful when you want to reset the default settings and
 styles that browsers use before they apply your styling to the web page.
 
-![](./images/image160.png){width="5.0in"
-height="2.368589238845144in"}
+<!-- ![](./images/image160.png){width="5.0in" height="2.368589238845144in"}  -->
 
 Finally, did you know that you can group selectors?
 
-![](./images/image161.png){width="4.0in"
-height="2.388888888888889in"}
+<!-- ![](./images/image161.png){width="4.0in" height="2.388888888888889in"}  -->
 
 If you want to apply the same styling to more than one type of element,
 like the heading one and paragraph elements you can use group selectors.
@@ -6831,8 +7041,8 @@ different groups of elements.
 CSS makes it possible to combine more than one selector so that you can
 apply rules to elements based on their relationship with one another.
 
-![](./images/image162.png){width="3.0in"
-height="3.145278871391076in"}4 main types of combination selectors.
+<!-- ![](./images/image162.png){width="3.0in" height="3.145278871391076in"}  -->
+4 main types of combination selectors.
 Descendant selectors, child selectors, general sibling selectors, and
 adjacent sibling selectors.
 
@@ -6851,8 +7061,7 @@ You pick a person in the family and then select all descendants, such as
 children, grandchildren and great grandchildren, who have, say, brown
 hair.
 
-![](./images/image163.png){width="3.0in"
-height="3.138888888888889in"}
+<!-- ![](./images/image163.png){width="3.0in" height="3.138888888888889in"}  -->
 
 For example, you can have an HTML file with a div tag, and its ID
 attributes set to blog, inside the div tag are a few heading tags.
@@ -6860,15 +7069,13 @@ attributes set to blog, inside the div tag are a few heading tags.
 In this example, all h1 elements are descendants of the element with the
 ID blog.
 
-![](./images/image164.png){width="6.0in"
-height="2.9967946194225723in"}
+<!-- ![](./images/image164.png){width="6.0in" height="2.9967946194225723in"}  -->
 
 So, to make all the h1 descendants blue, you can add the ID selector
 hash #blog followed by the h1 selector with a space in between and then
 the properties in curly brackets.
 
-![](./images/image165.png){width="6.0in"
-height="2.9967946194225723in"}
+<!-- ![](./images/image165.png){width="6.0in" height="2.9967946194225723in"}  -->
 
 Child selectors on the other hand are more specific than descendant
 selectors.
@@ -6884,8 +7091,7 @@ The effect is that now only the first h1 element turns blue.
 This is because it is the only h1 element that is a child of the element
 with the blog id attribute.
 
-![](./images/image166.png){width="6.0in"
-height="2.9967946194225723in"}
+<!-- ![](./images/image166.png){width="6.0in" height="2.9967946194225723in"}  -->
 
 Next, let&apos;s focus on general sibling selectors, which apply rules to
 all the selectors of the same type that follow the first type.
@@ -6910,8 +7116,7 @@ another element.
 Once again, if you think about a family, this selector selects a person
 and then selects the next younger brothers.
 
-![](./images/image167.png){width="6.0in"
-height="2.9967946194225723in"}
+<!-- ![](./images/image167.png){width="6.0in" height="2.9967946194225723in"}  -->
 
 Finally, let&apos;s replace the tilde with a plus sign to update this
 selector to an adjacent sibling selector.
@@ -6947,8 +7152,7 @@ with two list items.
 
 Now, let&apos;s inspect the CSS rules.
 
-![](./images/image168.png){width="6.0in"
-height="2.9967946194225723in"}
+<!-- ![](./images/image168.png){width="6.0in" height="2.9967946194225723in"}  -->
 
 First, I set basic rules for the html body.
 
@@ -6977,8 +7181,7 @@ case is set to gray.
 
 So what elements will be styled?
 
-![](./images/image169.png){width="6.0in"
-height="2.9967946194225723in"}
+<!-- ![](./images/image169.png){width="6.0in" height="2.9967946194225723in"}  -->
 
 Remember, sibling selectors apply rules to all the selectors of the same
 type that follow the first type.
@@ -6992,8 +7195,7 @@ So, the rules will target the un ordered list that follows it.
 And again, the second div tag will also serve as a reference and the
 rules will affect the un ordered list that follows it.
 
-![](./images/image170.png){width="6.0in"
-height="3.1955129046369204in"}
+<!-- ![](./images/image170.png){width="6.0in" height="3.1955129046369204in"}  -->
 
 Let&apos;s inspect the output.
 
@@ -7008,8 +7210,7 @@ The sibling selector only targets the items that follow the div tags.
 By now you should realize that you can use the sibling selector to
 efficiently apply the same styling to several elements with one rule.
 
-![](./images/image171.png){width="6.0in"
-height="3.1955129046369204in"}
+<!-- ![](./images/image171.png){width="6.0in" height="3.1955129046369204in"}  -->
 
 If there is another instance where an un ordered list follows a div tag
 on this page, it will also have a box shadow.
@@ -7017,8 +7218,7 @@ on this page, it will also have a box shadow.
 But say the page has other un ordered lists that do not follow a div
 tag, the styling will not be applied to those elements.
 
-![](./images/image172.png){width="6.0in"
-height="3.1955129046369204in"}
+<!-- ![](./images/image172.png){width="6.0in" height="3.1955129046369204in"}  -->
 
 Next, I will demonstrate how to use the adjacent selector.
 
@@ -7045,8 +7245,7 @@ element following the reference element.
 Whereas the sibling selector targets all the elements of the same type
 after the reference element.
 
-![](./images/image173.png){width="5.0in"
-height="2.66292760279965in"}
+<!-- ![](./images/image173.png){width="5.0in" height="2.66292760279965in"}  -->
 
 Let&apos;s inspect the output and CSS code.
 
@@ -7102,8 +7301,7 @@ Pseudo-classes are also very effective to target specific elements such
 as, let&apos;s say, the fifth item in a list, bold items, empty elements,
 and so on.
 
-![](./images/image174.png){width="3.0in"
-height="2.3188779527559054in"}
+<!-- ![](./images/image174.png){width="3.0in" height="2.3188779527559054in"}  -->
 
 Let&apos;s review the general syntax that you use for various
 pseudo-classes.
@@ -7116,8 +7314,7 @@ you can group them in terms of general similarities and their purpose.
 
 Let&apos;s explore a few of these general classifications.
 
-![](./images/image175.png){width="1.5in"
-height="2.45675634295713in"}
+<!-- ![](./images/image175.png){width="1.5in" height="2.45675634295713in"}  -->
 
 The first group you need to know about is user action states, which
 include the hover pseudo-class, which changes the style of an element
@@ -7136,14 +7333,14 @@ be used.
 Say you have a HTML file with an a tag inside a paragraph and a button
 element inside a div element.
 
-![](./images/image176.png){width="4.0in"
-height="1.9089741907261593in"}
+<!-- ![](./images/image176.png){width="4.0in" height="1.9089741907261593in"}  -->
 
 The paragraph element has a class defined as &quot;mypage&quot; and the button
 class is defined as &quot;mybutton.&quot;
 
-![](./images/image177.png){width="4.0in"
-height="1.9089741907261593in"}Now, let&apos;s explore the CSS.
+<!-- ![](./images/image177.png){width="4.0in" height="1.9089741907261593in"}  -->
+
+Now, let&apos;s explore the CSS.
 
 First it contains basically styling for the mypage and mybutton class
 elements.
@@ -7151,8 +7348,7 @@ elements.
 Then to make the link change its appearance when a user hovers over it,
 you use the hover pseudo-class to target a tag.
 
-![](./images/image178.png){width="4.0in"
-height="1.9089741907261593in"}
+<!-- ![](./images/image178.png){width="4.0in" height="1.9089741907261593in"}  -->
 
 To change the mybutton class, you use the active pseudo-class.
 
@@ -7165,8 +7361,8 @@ presses and holds the mouse button.
 In this example, the pseudo-class selectors target HTML elements, but
 you can also use them to target HTML class attributes.
 
-![](./images/image179.png){width="2.0in"
-height="2.3480828958880138in"}Next, let&apos;s focus on Form states.
+<!-- ![](./images/image179.png){width="2.0in" height="2.3480828958880138in"}  -->
+Next, let&apos;s focus on Form states.
 
 Previously, when discussing form validation, you were introduced to the
 invalid pseudo-class selector.
@@ -7182,8 +7378,7 @@ for buttons, checked and indeterminate, that are used for checkboxes,
 and valid and invalid used in case of fields like emails and phone
 numbers.
 
-![](./images/image180.png){width="2.0in"
-height="2.3480828958880138in"}
+<!-- ![](./images/image180.png){width="2.0in" height="2.3480828958880138in"}  -->
 
 Another pseudo-class type that you should know about is specific
 position-based states.
@@ -7274,12 +7469,11 @@ each of the three points in the example text.
 
 Output
 
-![The output when the pseudo-element first-letter are used to change the
-size and color of the first letter of list
-items.](./images/image181.png){width="4.0in"
-height="2.9822779965004376in"}Although the code only changed the first
-letter of each bullet point, it makes a big difference in terms of
-presentation. Now let's change the font in a different way.
+[The output when the pseudo-element first-letter are used to change the
+size and color of the first letter of list items.]
+<!-- (./images/image181.png){width="4.0in" height="2.9822779965004376in"}  -->
+Although the code only changed the first letter of each bullet point, it makes a 
+big difference in terms of presentation. Now let's change the font in a different way.
 
 ##### ::first-line
 
@@ -7302,9 +7496,8 @@ points to light sea green.
 
 Output:
 
-![Display of underlined first line of each bulleted item
-item](./images/image182.png){width="4.0in"
-height="1.812587489063867in"}
+![Display of underlined first line of each bulleted item item]
+<!-- (./images/image182.png){width="4.0in" height="1.812587489063867in"}  -->
 
 Because it's only the first line of each bullet point, it almost
 functions like dividers between the three different points instead of
@@ -7316,9 +7509,9 @@ viewport.
 
 Output:
 
-![Output for the first underlined line in the increased size format of
-the text](./images/image183.png){width="4.0in"
-height="3.24050634295713in"}
+[Output for the first underlined line in the increased size format of
+the text]
+<!-- (./images/image183.png){width="4.0in" height="3.24050634295713in"}  -->
 
 ##### ::selection
 
@@ -7347,18 +7540,16 @@ Here is an example of a selection of text.
 
 ##### Output:
 
-![Output for selection of text
-display](./images/image184.png){width="6.238194444444445in"
-height="3.838888888888889in"}
+[Output for selection of text display]
+<!-- (./images/image184.png){width="6.238194444444445in" height="3.838888888888889in"}  -->
 
 And another example of the same text but with a different section
 selected and highlighted.
 
 ##### Output:
 
-![Selection of different part of text
-display](./images/image185.png){width="4.0in"
-height="2.4914523184601927in"}
+[Selection of different part of text display]
+<!-- (./images/image185.png){width="4.0in" height="2.4914523184601927in"}  -->
 
 Different segments of the text are highlighted depending on the text
 that is selected at any given point.
@@ -7382,9 +7573,8 @@ li::marker {
 
 Output
 
-![Output for the demonstration of
-markers](./images/image186.png){width="4.0in"
-height="2.205076552930884in"}
+[Output for the demonstration of markers]
+<!-- (./images/image186.png){width="4.0in" height="2.205076552930884in"}  -->
 
 Now the bullet points are cornflower blue and they have the shape
 specified in the code.
@@ -7433,9 +7623,8 @@ important tips.
 
 ##### Output:
 
-![Selection of texts preceding and following a
-statement](./images/image187.png){width="4.0in"
-height="1.3951760717410324in"}
+[Selection of texts preceding and following a statement]
+<!-- (./images/image187.png){width="4.0in" height="1.3951760717410324in"}  -->
 
 The "content" property is where the text for the guidelines goes. The
 word "tip" has been added before each guideline thanks to the rules
@@ -7463,14 +7652,12 @@ Although, you can use web-link states for many functionalities,
 developers often use them to style the color of links that a user
 already opened.
 
-![](./images/image188.png){width="4.0in"
-height="1.481058617672791in"}
+<!-- ![](./images/image188.png){width="4.0in" height="1.481058617672791in"}  -->
 
 For instance, a HTML file can have two a tags, each with its own href
 that links to a different page of a website.
 
-![](./images/image189.png){width="4.0in"
-height="1.2613757655293087in"}
+<!-- ![](./images/image189.png){width="4.0in" height="1.2613757655293087in"}  -->
 
 To give the links their initial color, you can use the link pseudo-class
 selector, and to let the links change color, once a user has visited
@@ -7487,9 +7674,8 @@ So be careful not to accidentally overwrite a style you want to set.
 Developers use the acronym LVHA to remind them of the order that they
 need to follow when writing pseudo-class rules.
 
-![](./images/image190.png){width="1.75in"
-height="2.192946194225722in"}LVHA stands for link, visited, hover,
-active.
+<!-- ![](./images/image190.png){width="1.75in" height="2.192946194225722in"}  -->
+LVHA stands for link, visited, hover, active.
 
 So always apply pseudo-class styles in the correct order.
 
@@ -7501,8 +7687,7 @@ the link, visited, hover, and active pseudo-classes.
 Additionally, you will learn two more effects that you can create with
 the hover pseudo-class.
 
-![](./images/image191.png){width="6.0in"
-height="3.066666666666667in"}
+<!-- ![](./images/image191.png){width="6.0in" height="3.066666666666667in"}  -->
 
 In the pseudo_links.html file, I added three tags: a heading tag,
 followed by a paragraph tag, and another paragraph tag.
@@ -7510,8 +7695,8 @@ followed by a paragraph tag, and another paragraph tag.
 In the heading tag, I added the name of the restaurant, Little Lemon,
 and the first paragraph tag has a link to their Instagram page.
 
-![](./images/image192.png){width="3.0in"
-height="3.5801531058617675in"}Now I go to my CSS code by clicking on the
+<!-- ![](./images/image192.png){width="3.0in" height="3.5801531058617675in"}  -->
+Now I go to my CSS code by clicking on the
 pseudo_links.css file at the top of my screen.
 
 In this file, I already added properties related to the pseudo-classes
@@ -7524,8 +7709,7 @@ By default, the link to the Little Lemon Instagram page displays in a
 blue color because I set it to blue with the link pseudo-class in the
 CSS code.
 
-![](./images/image193.png){width="3.0in"
-height="3.09911854768154in"}
+<!-- ![](./images/image193.png){width="3.0in" height="3.09911854768154in"}  -->
 
 As expected, when I move the mouse over the link, the color changes to
 green because I added green as the value of the color attribute in the
@@ -7548,8 +7732,7 @@ I&apos;m now going to demonstrate how you can use the pseudo-class hover.
 
 To do this, I use the pseudoshadow.html file I created previously.
 
-![](./images/image194.png){width="6.0in"
-height="3.548570647419073in"}
+<!-- ![](./images/image194.png){width="6.0in" height="3.548570647419073in"}  -->
 
 In this file, I added four paragraph tags, each belonging to a class
 called textual.
@@ -7557,9 +7740,8 @@ called textual.
 I also added random text, commonly used in publishing and graphic design
 as placeholder text.
 
-![](./images/image195.png){width="3.0in"
-height="1.9930074365704287in"}The CSS code that I added is fairly
-simple.
+<!-- ![](./images/image195.png){width="3.0in" height="1.9930074365704287in"}  -->
+The CSS code that I added is fairly simple.
 
 The first property defines the properties of the textual class.
 
@@ -7576,8 +7758,7 @@ The horizontal offset is set to five pixels, the vertical offset is set
 to zero pixels, the blur radius is set to 25 pixels, and the color of
 the shadow is set to black.
 
-![](./images/image196.png){width="6.0in"
-height="3.038096019247594in"}
+<!-- ![](./images/image196.png){width="6.0in" height="3.038096019247594in"}  -->
 
 I moved back to my HTML file to output this code and click on the
 &quot;View&quot; icon.
@@ -7586,8 +7767,7 @@ The Little Lemon page with blocks of texts displays.
 
 The text looks like regular blocks of texts.
 
-![](./images/image197.png){width="6.0in"
-height="3.038096019247594in"}
+<!-- ![](./images/image197.png){width="6.0in" height="3.038096019247594in"}  -->
 
 But when I hover over a block of code with my mouse, it gets highlighted
 with a box-shadow around the edges.
@@ -7843,8 +8023,7 @@ time.
 The idea of animation had been around for many years before technology
 was good enough to integrate it into online experiences.
 
-![](./images/image198.png){width="5.0in"
-height="0.9904757217847769in"}
+<!-- ![](./images/image198.png){width="5.0in" height="0.9904757217847769in"}  -->
 
 The graphics interchange form or 'gifs' can arguably be labeled as the
 first attempt to bring effects to web pages.
@@ -7922,8 +8101,7 @@ users are scrolling.
 Now that you are familiar with some popular effects, let&apos;s briefly
 visit the pros and cons of adding effects on web pages.
 
-![](./images/image199.png){width="5.0in"
-height="1.5174606299212599in"}
+<!-- ![](./images/image199.png){width="5.0in" height="1.5174606299212599in"}  -->
 
 The primary driving factor of web pages these days is to attract the
 attention of user web pages that use animation and effects optimally
@@ -7943,9 +8121,8 @@ cause your web page to load slowly in areas with low bandwidth.
 Nonetheless, effects improve online experiences in general and are
 especially used to create intuitive navigation.
 
-![](./images/image200.png){width="3.0in"
-height="3.1425339020122482in"}You should now understand what effects and
-animations are.
+<!-- ![](./images/image200.png){width="3.0in" height="3.1425339020122482in"}  -->
+You should now understand what effects and animations are.
 
 You also got a quick overview of the history of effects and the most
 popular effects used on the Web.
@@ -7969,8 +8146,7 @@ also make you look dull and cause users to lose attention.
 With the help of CSS, you can make the most of texts by adding
 interesting effects.
 
-![](./images/image201.png){width="5.0in"
-height="3.6455030621172355in"}
+<!-- ![](./images/image201.png){width="5.0in" height="3.6455030621172355in"}  -->
 
 First, I will explain how to use the text-overflow property that
 determines how overflowing content is displayed on your website.
@@ -7995,9 +8171,8 @@ scroll to add a scroll bar.
 It is important to note that the text-overflow property here is set to
 ellipsis.
 
-![](./images/image202.png){width="4.0in"
-height="0.7689818460192476in"}An ellipsis is three dots that represent
-the texts that is clipped.
+<!-- ![](./images/image202.png){width="4.0in" height="0.7689818460192476in"}  -->
+An ellipsis is three dots that represent the texts that is clipped.
 
 ![](./images/image203.png){width="4.0in"
 height="0.7689818460192476in"}If I hover over the overflowing text which
@@ -8014,9 +8189,8 @@ limits of the box. (no ellipsis).
 
 If I hover over with the cursor, the clipped text is displayed.
 
-![](./images/image204.png){width="4.0in"
-height="4.245989720034996in"}In the third example, I demonstrate how to
-create vertical text.
+<!-- ![](./images/image204.png){width="4.0in" height="4.245989720034996in"}  -->
+In the third example, I demonstrate how to create vertical text.
 
 In the output, the words 12-15 items are placed vertically within the
 otherwise horizontal texts.
@@ -8026,9 +8200,8 @@ named vert.
 
 Then in the CSS code, I set the writing mode property to be vertical-rl.
 
-![](./images/image205.png){width="4.0in"
-height="4.162047244094488in"}The next example demonstrates the word wrap
-property.
+<!-- ![](./images/image205.png){width="4.0in" height="4.162047244094488in"}  -->
+The next example demonstrates the word wrap property.
 
 Word wrap determines how the words in a paragraph break up and wrap onto
 the next slide.
@@ -8043,9 +8216,8 @@ across multiple lines.
 
 In the next two examples, I will add text effects using simple CSS code.
 
-![](./images/image206.png){width="2.40625in"
-height="0.8229166666666666in"}In this example, I use a property called
-text shadow, which has a shorthand with four values.
+<!-- ![](./images/image206.png){width="2.40625in" height="0.8229166666666666in"}  -->
+In this example, I use a property called text shadow, which has a shorthand with four values.
 
 The first value is the x-coordinate, which represents the horizontal
 shadow.
@@ -8054,8 +8226,7 @@ The second is the y-coordinate, which represents the vertical shadow.
 
 The third is the blur radius, and the fourth is the shadow color.
 
-![](./images/image207.png){width="5.0in"
-height="2.854640201224847in"}
+<!-- ![](./images/image207.png){width="5.0in" height="2.854640201224847in"}  -->
 
 This next example explores an extension of the same idea.
 
@@ -8064,8 +8235,8 @@ My HTML code has two heading tags, each with the class name glow.
 In the corresponding CSS code, I&apos;ve added the text shadow effects for
 that class.
 
-![](./images/image208.png){width="3.0in" height="1.78125in"}I can
-use the output to determine whether I need to adjust the color effects
+<!-- ![](./images/image208.png){width="3.0in" height="1.78125in"}  -->
+I can use the output to determine whether I need to adjust the color effects
 until I&apos;m happy with it.
 
 That&apos;s all my examples. In this section, you learned how to add effects
@@ -8168,8 +8339,7 @@ which you can create basic animations.
 In this module, you will learn how to use the transform and transition
 properties.
 
-![](./images/image209.png){width="4.0in"
-height="1.5043383639545056in"}
+<!-- ![](./images/image209.png){width="4.0in" height="1.5043383639545056in"}  -->
 
 The Syntax of the transform and transition properties are similar.
 
@@ -8190,8 +8360,7 @@ the transformed property.
 
 Let&apos;s explore how these two properties work together.
 
-![](./images/image210.png){width="3.0in"
-height="2.5833333333333335in"}
+<!-- ![](./images/image210.png){width="3.0in" height="2.5833333333333335in"}  -->
 
 For example, you can set up your H one elements to rotate zero degrees
 by default, but by using the hover pseudo class and the transform
@@ -8200,8 +8369,7 @@ hovers over it.
 
 Without a transition, the rotation will be instant.
 
-![](./images/image211.png){width="3.0in"
-height="2.308860454943132in"}
+<!-- ![](./images/image211.png){width="3.0in" height="2.308860454943132in"}  -->
 
 But by adding the transition property with the value transform to s the
 rotation will animate over two seconds.
@@ -8209,8 +8377,7 @@ rotation will animate over two seconds.
 Now that you know the basics about the transform and transition
 properties, let&apos;s explore a practical example.
 
-![](./images/image212.png){width="4.0in"
-height="3.401709317585302in"}
+<!-- ![](./images/image212.png){width="4.0in" height="3.401709317585302in"}  -->
 
 I already set up an html file that contains a div tag with the class
 container and in it to other div tags.
@@ -8219,8 +8386,7 @@ The first div tag contains the letter A with a class called A.
 
 The second contains the letter B with a class called B.
 
-![](./images/image213.png){width="3.0in"
-height="2.2823917322834646in"}
+<!-- ![](./images/image213.png){width="3.0in" height="2.2823917322834646in"}  -->
 
 Let&apos;s view the CSS file.
 
@@ -8233,8 +8399,8 @@ First, I add the transform property to the A class.
 
 There are a number of key word and function values inside this property.
 
-![](./images/image214.png){width="3.0in"
-height="2.4924475065616796in"}I choose skew X from the suggestion list
+<!-- ![](./images/image214.png){width="3.0in" height="2.4924475065616796in"}  -->
+I choose skew X from the suggestion list
 that appears this will tilt the letter on its X access.
 
 You can also choose to skew it on its Y axis or even on both axes. I add
@@ -8246,8 +8412,7 @@ Class as well.
 
 But this time I use the keyword, rotate and add the value of 20 degrees.
 
-![](./images/image215.png){width="2.5in"
-height="2.0770395888013997in"}
+<!-- ![](./images/image215.png){width="2.5in" height="2.0770395888013997in"}  -->
 
 This will cause a different effect.
 
@@ -8260,8 +8425,7 @@ as they are applied to change this.
 
 You need to add the transition property.
 
-![](./images/image216.png){width="2.5in"
-height="2.2356496062992126in"}
+<!-- ![](./images/image216.png){width="2.5in" height="2.2356496062992126in"}  -->
 
 I add the transition property to both classes with the value of five
 seconds.
@@ -8279,8 +8443,8 @@ First, I will write the rules for the box, then I will add rules using a
 hover pseudo class and grouping selectors to perform transformations on
 the box.
 
-![](./images/image217.png){width="5.0in"
-height="2.6142858705161856in"}The initial output will be a green box.
+<!-- ![](./images/image217.png){width="5.0in" height="2.6142858705161856in"}  -->
+The initial output will be a green box.
 
 Let&apos;s go to the CSS file and write the rules for the box.
 
@@ -8313,8 +8477,7 @@ This is so that the transform effect that I will add.
 
 Next will only happen when I hover over the box.
 
-![](./images/image218.png){width="5.0in"
-height="2.6142858705161856in"}
+<!-- ![](./images/image218.png){width="5.0in" height="2.6142858705161856in"}  -->
 
 Let&apos;s add the transformed property.
 
@@ -8374,9 +8537,8 @@ animation property.
 But to control the execution of the steps of the animation, they use the
 &#64;keyframe rule.
 
-![](./images/image219.png){width="4.0in"
-height="1.2076192038495188in"}Next, let&apos;s explore the syntax of the
-&#64;keyframe rule, and the animation property.
+<!-- ![](./images/image219.png){width="4.0in" height="1.2076192038495188in"}  -->
+Next, let&apos;s explore the syntax of the &#64;keyframe rule, and the animation property.
 
 The &#64;keyframe rule specifies the name of the animation, and the
 individual keyframes for the animation.
@@ -8384,14 +8546,13 @@ individual keyframes for the animation.
 You define each keyframe with a keyframe selector and CSS styles for
 that keyframe.
 
-![](./images/image220.png){width="4.0in"
-height="1.856084864391951in"}The &#64;keyframe rule can also use the
-optional keywords, from and to, to show transitions.
+<!-- ![](./images/image220.png){width="4.0in" height="1.856084864391951in"}  -->
+The &#64;keyframe rule can also use the optional keywords, from and to, to show transitions.
 
 The animation name links the animation to a specific keyframe rule.
 
-![](./images/image221.png){width="4.0in"
-height="1.7866666666666666in"}The animation property has a number of sub
+<!-- ![](./images/image221.png){width="4.0in" height="1.7866666666666666in"}  -->
+The animation property has a number of sub
 properties like animation name, animation delay, and so on.
 
 You can use a shorthand CSS syntax to set all the sub properties of the
@@ -8402,8 +8563,7 @@ simply leave them out.
 
 However, each of the sub properties can be listed individually as well.
 
-![](./images/image222.png){width="3.0in"
-height="2.4266666666666667in"}
+<!-- ![](./images/image222.png){width="3.0in" height="2.4266666666666667in"}  -->
 
 To understand animation cues, let&apos;s explore a simple animation of a
 clock with hour and minute hands.
@@ -8420,8 +8580,8 @@ But since the focus of this lesson is to understand the animation part
 of the CSS, the basic styling properties of the clock are not covered
 now.
 
-![](./images/image223.png){width="3.0in"
-height="1.4677099737532808in"}All that you need to know is that you
+<!-- ![](./images/image223.png){width="3.0in" height="1.4677099737532808in"}  -->
+All that you need to know is that you
 create two classes, clock and hand, and insert style rules that specify
 the basic layout and appearance of the clock and hands.
 
@@ -8447,8 +8607,8 @@ function.
 Since the other animation properties are not mentioned, they are set to
 the default values.
 
-![](./images/image224.png){width="3.0in"
-height="1.4677099737532808in"}Finally, you can add the &#64;keyframe rule.
+<!-- ![](./images/image224.png){width="3.0in" height="1.4677099737532808in"}  -->
+Finally, you can add the &#64;keyframe rule.
 
 Type &#64;keyframes cycle, and then the two special keywords, namely from
 and to.
@@ -8647,9 +8807,8 @@ animation property. 
 
 ##### And this is the output: 
 
-![](./images/image225.png){width="3.0in"
-height="1.44in"}![](./images/image226.png){width="3.0in"
-height="1.44in"}
+<!-- ![](./images/image225.png){width="3.0in" height="1.44in"}  -->
+<!-- ![](./images/image226.png){width="3.0in" height="1.44in"}  -->
 
 In the example, the width of the object changes from 50 pixels to 100
 pixels over a span of 3 seconds and loops infinitely afterward.
@@ -8686,9 +8845,8 @@ it will have the same output.
 
 ##### Output: 
 
-![](./images/image227.png){width="3.0in"
-height="1.759047462817148in"}![](./images/image228.png){width="3.0in"
-height="1.759047462817148in"}
+<!-- ![](./images/image227.png){width="3.0in" height="1.759047462817148in"}  -->
+<!-- ![](./images/image228.png){width="3.0in" height="1.759047462817148in"}  -->
 
 The output is drastically different now after adding just two lines of
 code. Just like this, you can keep adding steps inside your &#64;keyframes
@@ -8720,18 +8878,16 @@ file named index.html.
 In the head element, I added a link element to reference a CSS file
 named styles.css.
 
-![](./images/image229.png){width="4.0in"
-height="2.4507655293088364in"}
+<!-- ![](./images/image229.png){width="4.0in" height="2.4507655293088364in"}  -->
 
 First, I&apos;ll add the HTML element that will be animated.
 
 In this case, the element will represent the bouncing ball.
 
-I add a div element to the body element and set its ID attribute to
-ball.
+I add a div element to the body element and set its ID attribute to ball.
 
-![](./images/image230.png){width="4.0in"
-height="3.6355555555555554in"}Now I open styles.css.
+<!-- ![](./images/image230.png){width="4.0in" height="3.6355555555555554in"}  -->
+Now I open styles.css.
 
 First, I add the keyframes definition.
 
@@ -8774,16 +8930,15 @@ like a circle.
 Finally, I set the background color property to #62687F to fill in the
 color of the circle.
 
-![](./images/image231.png){width="1.5in"
-height="1.3216458880139983in"}I save the file and open index.html in
-live preview.
+<!-- ![](./images/image231.png){width="1.5in" height="1.3216458880139983in"}  -->
+I save the file and open index.html in live preview.
 
 Great, the ball is rendering correctly.
 
 Now to connect the animation to the element, I open styles.css again.
 
-![](./images/image232.png){width="3.5in"
-height="3.548386920384952in"}In the CSS rule for the ball element, I add
+<!-- ![](./images/image232.png){width="3.5in" height="3.548386920384952in"}  -->
+In the CSS rule for the ball element, I add
 the animation property and set its value to bounce 2s.
 
 This will play the bounce animation over a two second duration.
@@ -9723,19 +9878,18 @@ of specific elements on your web page. You can also access this option
 by hovering over a specific element on your page that will display its
 properties to you.
 
-![Hovering Icon](./images/image233.png){width="1.0in"
-height="0.8010444006999126in"}
+[Hovering Icon]
+<!-- (./images/image233.png){width="1.0in" height="0.8010444006999126in"}  -->
 
-![Targetting Icon](./images/image234.png){width="0.4in"
-height="0.32257983377077865in"}
+![Targetting Icon]
+<!-- (./images/image234.png){width="0.4in" height="0.32257983377077865in"}  -->
 
 On selecting the desired element, one way to use the Elements tab for
 debugging is by right-clicking on that element, scrolling to 'Copy' and
 then selecting an option from the drop-down list that appears.
 
-![Display of submenu from copy
-option](./images/image235.png){width="5.0in"
-height="2.9711570428696414in"}
+[Display of submenu from copy option]
+<!-- (./images/image235.png){width="5.0in" height="2.9711570428696414in"}  -->
 
 This way, you can explore the isolated code to find the problem.
 
@@ -9743,8 +9897,8 @@ Additionally, you can add the Breakpoint option that is more useful for
 interactive pages by selecting the 'Break on' option and selecting an
 option from the dropdown list that appears.
 
-![Break on Submenu options](./images/image236.png){width="5.0in"
-height="2.7334055118110236in"}
+[Break on Submenu options]
+<!-- (./images/image236.png){width="5.0in" height="2.7334055118110236in"}  -->
 
 Nowadays, some browsers are providing options such as Cumulative Layout
 Shift (CLS) that helps determine the overall efficiency of a web page.
@@ -9752,9 +9906,8 @@ Shift (CLS) that helps determine the overall efficiency of a web page.
 You can also bring up the element families by clicking on the horizontal
 bar:
 
-![Horizontal bar and element
-families](./images/image237.png){width="6.0in"
-height="0.39473206474190725in"}
+[Horizontal bar and element families]
+<!-- (./images/image237.png){width="6.0in" height="0.39473206474190725in"}  -->
 
 One very useful feature is the ability to make changes in your code
 directly inside the browser. First, use the 'element selector' mentioned
@@ -10434,8 +10587,7 @@ By completing the lessons in this course, you have acquired the
 necessary HTML and CSS skills and knowledge to develop a home page with
 a header, main content and footer.
 
-![](./images/image238.png){width="4.0in"
-height="2.466454505686789in"}
+<!-- ![](./images/image238.png){width="4.0in" height="2.466454505686789in"}  -->
 
 You will have to decide whether you are going to use a grid or flexbox
 layout for your home page. Your header should contain the client logo
@@ -10525,9 +10677,8 @@ Read on to find out more about them.
 
 ##### <b>Retail: Lucky Shrub</b>
 
-![Logo of the fictional client Lucky
-Shrub](./images/image239.png){width="0.5in"
-height="1.0057808398950132in"}
+[Logo of the fictional client Lucky Shrub]
+<!-- (./images/image239.png){width="0.5in" height="1.0057808398950132in"}  -->
 
 Based in Tuscon, Arizona, Lucky Shrub is a medium-sized garden design
 firm that specializes in garden design and creation, maintenance and
@@ -10549,9 +10700,8 @@ nursery.
 
 #### <b>Professional services: Hair Day</b> 
 
-![Logo of the fictional client Hair
-day](./images/image240.png){width="2.0in"
-height="1.3277668416447943in"}
+[Logo of the fictional client Hair day]
+<!-- (./images/image240.png){width="2.0in" height="1.3277668416447943in"}  -->
 
 Based in Madison, Wisconsin, Hair Day is a boutique hair salon that
 specializes in cut, color and styling. Hair Day also offers makeup and
@@ -10577,9 +10727,8 @@ manicurist and one make-up artist.
 
 #### <b>Restaurant: Little Lemon</b> 
 
-![Logo of the fictional client Little
-Lemon](./images/image241.png){width="4.0in"
-height="1.0925109361329834in"}
+[Logo of the fictional client Little Lemon]
+<!-- (./images/image241.png){width="4.0in" height="1.0925109361329834in"}  -->
 
 Based in Chicago, Illinois, Little Lemon is a family-owned Mediterranean
 restaurant, focused on traditional recipes served with a modern twist.
@@ -10597,7 +10746,7 @@ to incorporate additional cuisines from the Mediterranean region.
 
 #### Download their logos here:
 
-<b>[Little-Lemon-logos]{.underline}</b>
+<b>[Little-Lemon-logos]</b>
 
 ZIP File
 
@@ -10827,31 +10976,27 @@ Select the download based on your operating system.
 
 <b>Step 3:</b> Review and accept the license agreement, then click Next.
 
-![Set up Visual Studio Code on Microsoft Step
-3](./images/image242.png){width="5.0in"
-height="4.090258092738408in"}
+[Set up Visual Studio Code on Microsoft Step 3]
+<!-- (./images/image242.png){width="5.0in" height="4.090258092738408in"}  -->
 
 <b>Step 4:</b> Keep the default value when prompted for the destination
 location and click next.
 
-![Set up Microsoft Visual Studio Code Step
-4](./images/image243.png){width="5.0in"
-height="4.090258092738408in"}
+[Set up Microsoft Visual Studio Code Step 4]
+<!-- (./images/image243.png){width="5.0in" height="4.090258092738408in"}  -->
 
 <b>Step 5:</b> On the additional tasks view, make sure that <b>Add to PATH</b>
 is selected. 
 
-![Set up Microsoft Visual Studio Code Step 5
-](./images/image244.png){width="5.0in"
-height="3.870152012248469in"}
+[Set up Microsoft Visual Studio Code Step 5]
+<!-- (./images/image244.png){width="5.0in" height="3.870152012248469in"}  -->
 
 <b>Step 6:</b> Click next.
 
 <b>Step 7:</b> Click install when the ready to install page appears.
 
-![Set up Microsoft Visual Studio Code Step 7
-](./images/image245.png){width="5.0in"
-height="4.090258092738408in"}
+[Set up Microsoft Visual Studio Code Step 7]
+<!-- (./images/image245.png){width="5.0in" height="4.090258092738408in"}  -->
 
 <b>Step 8:</b> Click finish once completed, and the application will
 launch.
@@ -10869,9 +11014,8 @@ choose the Universal option.
 <b>Step 4:</b> Drag and drop the .app file to the application link in
 Finder below.
 
-![Set up Visual Studio Code on Mac Step
-4](./images/image246.png){width="5.0in"
-height="1.4595898950131234in"}
+[Set up Visual Studio Code on Mac Step 4]
+<!-- (./images/image246.png){width="5.0in" height="1.4595898950131234in"}  -->
 
 <b>Step 5:</b> Open the app.
 
@@ -10989,10 +11133,9 @@ can be used for maximum appeal. These are: 
 
 The different combinations are represented in the image below.
 
-![Different color combinations on the color wheel that are based on the
-relative position of colors to
-others.](./images/image247.png){width="6.5in"
-height="3.587060367454068in"}
+[Different color combinations on the color wheel that are based on the
+relative position of colors to others.]
+<!-- (./images/image247.png){width="6.5in" height="3.587060367454068in"}  -->
 
 Image source:
 <https://www.moving.com/tips/how-to-choose-a-color-scheme-for-your-home/>
