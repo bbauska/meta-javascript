@@ -7051,7 +7051,7 @@ CSS rules and to control the outcome of their web pages. 
 Let's explore a practical example of how to determine the score of a few
 selectors. 
 
-````
+```
 > #hello {} will be 0100
 >
 > div {} will be 0001 and
@@ -7895,8 +7895,14 @@ important tips.
 ```
 
 ##### Output:
-
-[Selection of texts preceding and following a statement]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 187.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image187.png"
+  style="width:4.0in;"
+  title="Selection of texts preceding and following a statement"
+  alt="Selection of texts preceding and following a statement."
+</p>
 <!-- (./images/image187.png){width="4.0in" height="1.3951760717410324in"}  -->
 
 The "content" property is where the text for the guidelines goes. The
@@ -7924,12 +7930,26 @@ style links on web pages, namely web-link states.
 Although, you can use web-link states for many functionalities,
 developers often use them to style the color of links that a user
 already opened.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 188.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image188.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image188.png){width="4.0in" height="1.481058617672791in"}  -->
 
 For instance, a HTML file can have two a tags, each with its own href
 that links to a different page of a website.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 189.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image189.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image189.png){width="4.0in" height="1.2613757655293087in"}  -->
 
 To give the links their initial color, you can use the link pseudo-class
@@ -7946,7 +7966,14 @@ So be careful not to accidentally overwrite a style you want to set.
 
 Developers use the acronym LVHA to remind them of the order that they
 need to follow when writing pseudo-class rules.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 190.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image190.png"
+  style="width:1.75in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image190.png){width="1.75in" height="2.192946194225722in"}  -->
 LVHA stands for link, visited, hover, active.
 
@@ -7959,7 +7986,14 @@ the link, visited, hover, and active pseudo-classes.
 
 Additionally, you will learn two more effects that you can create with
 the hover pseudo-class.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 191.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image191.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image191.png){width="6.0in" height="3.066666666666667in"}  -->
 
 In the pseudo_links.html file, I added three tags: a heading tag,
@@ -7967,7 +8001,14 @@ followed by a paragraph tag, and another paragraph tag.
 
 In the heading tag, I added the name of the restaurant, Little Lemon,
 and the first paragraph tag has a link to their Instagram page.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 192.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image192.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image192.png){width="3.0in" height="3.5801531058617675in"}  -->
 Now I go to my CSS code by clicking on the
 pseudo_links.css file at the top of my screen.
@@ -7981,7 +8022,14 @@ click the &quot;View&quot; icon at the top right of my screen.
 By default, the link to the Little Lemon Instagram page displays in a
 blue color because I set it to blue with the link pseudo-class in the
 CSS code.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 193.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image193.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image193.png){width="3.0in" height="3.09911854768154in"}  -->
 
 As expected, when I move the mouse over the link, the color changes to
@@ -8004,7 +8052,15 @@ because I defined it to do that with the visited pseudo-class.
 I&apos;m now going to demonstrate how you can use the pseudo-class hover.
 
 To do this, I use the pseudoshadow.html file I created previously.
-
+CSS code.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 194.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image194.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image194.png){width="6.0in" height="3.548570647419073in"}  -->
 
 In this file, I added four paragraph tags, each belonging to a class
@@ -8012,7 +8068,15 @@ called textual.
 
 I also added random text, commonly used in publishing and graphic design
 as placeholder text.
-
+CSS code.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 195.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image195.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image195.png){width="3.0in" height="1.9930074365704287in"}  -->
 The CSS code that I added is fairly simple.
 
