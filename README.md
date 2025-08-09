@@ -3374,14 +3374,13 @@ appearance of the element. For example, this code:
 
 Results in the following output:
 
-![Two input types, text and password, as it displays in the browser.]
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 79.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image079.png"
   style="width:2.0in;"
-  title=""
-  alt="."
+  title="Two input types, text and password, as it displays in the browser"
+  alt="Two input types, text and password, as it displays in the browser."
 </p>
 <!-- (./images/image079.png){width="2.0in" height="1.397195975503062in"}  -->
 
@@ -3524,14 +3523,13 @@ input other than the listed options.
 >
 > &lt;/form&gt;
 
-![Datalist input type with its drop-down list containing the options visible]
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 80.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image080.png"
   style="width:2.0in;"
-  title=""
-  alt="."
+  title="Datalist input type with its drop-down list containing the options visible"
+  alt="Datalist input type with its drop-down list containing the options visible."
 </p>
 <!-- (./images/image080.png){width="2.0in" height="2.150837707786527in"}  -->
 
@@ -3560,14 +3558,13 @@ below the code block.
 
 &lt;/select&gt; 
 
-![Option input type as with its drop-down list visible]
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 81.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image081.png"
   style="width:2.0in;"
-  title=""
-  alt="."
+  title="Option input type as with its drop-down list visible"
+  alt="Option input type as with its drop-down list visible."
 </p>
 <!-- (./images/image081.png){width="2.0in" height="1.5905511811023623in"}  -->
 
@@ -3600,8 +3597,8 @@ buttons](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/radio)
 [Why does your website look different in different
 browsers?](https://www.webfx.com/web-design/learn/why-does-your-website-look-different-in-different-browsers/)
 
-[HTML Form submission -- sending form
-data](https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data)
+<a href="https://developer.mozilla.org/en-US/docs/Learn/Forms/Sending_and_retrieving_form_data">
+HTML Form submission -- sending form data</a>
 
 Video and audio
 
@@ -4603,14 +4600,13 @@ the vertical main axis. The properties you choose will help better
 control alignment, spacing, direction and eventually styling of the
 container and items present inside it. 
 
-![Diagram of a flexbox and all its properties.]
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 94.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image094.png"
   style="width:5.0in;"
-  title=""
-  alt="."
+  title="Diagram of a flexbox and all its properties"
+  alt="Diagram of a flexbox and all its properties."
 </p>
 <>!-- (./images/image094.png){width="5.0in" height="2.00704615048119in"}  -->
 
@@ -4651,14 +4647,13 @@ to configure a flexbox.
 
 ##### Output:
 
-![Output for CSS Code with listed number boxes]
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 95.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image095.png"
   style="width:3.2in;"
-  title=""
-  alt="."
+  title="Output for CSS Code with listed number boxes"
+  alt="Output for CSS Code with listed number boxes."
 </p>
 <!-- (./images/image095.png){width="3.2604166666666665in" height="3.6145833333333335in"}  -->
 
@@ -4683,14 +4678,13 @@ flex.
 The output is now seven flex containers that run from left to right
 starting in the top left corner.
 
-![Output for CSS Code with aligned number boxes]
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 96.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image096.png"
   style="width:5.3in;"
-  title=""
-  alt="."
+  title="Output for CSS Code with aligned number boxes"
+  alt="Output for CSS Code with aligned number boxes."
 </p>
 <!-- (./images/image096.png){width="5.395833333333333in" height="1.8125in"}  -->
 
@@ -4727,15 +4721,15 @@ Let's first examine the use of justify-content which has a value of
 
 ##### Output:
 
-![The output for CSS Code with justification in the center]
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 97.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image097.png"
   style="width:6.2in;"
-  title=""
-  alt="."
-</p><!-- (./images/image097.png){width="6.208333333333333in" height="0.875in"}  -->
+  title="The output for CSS Code with justification in the center"
+  alt="The output for CSS Code with justification in the center."
+</p>
+<!-- (./images/image097.png){width="6.208333333333333in" height="0.875in"}  -->
 
 ##### flex-wrap:
 
@@ -4752,14 +4746,13 @@ span the entire width of the axis.
 
 ##### Output:
 
-![Output for CSS code with wrapped number boxes justified in the center]
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 98.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image098.png"
   style="width:2.9in;"
-  title=""
-  alt="."
+  title="Output for CSS code with wrapped number boxes justified in the center"
+  alt="Output for CSS code with wrapped number boxes justified in the center."
 </p>
 <!-- (./images/image098.png){width="2.9166666666666665in" height="2.03125in"}  -->
 
@@ -4784,14 +4777,13 @@ rows to vertical columns.
 
 ##### Output:
 
-![Display of listed number boxes as a flex]
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 99.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image099.png"
   style="width:3.4in;"
-  title=""
-  alt="."
+  title="Display of listed number boxes as a flex"
+  alt="Display of listed number boxes as a flex."
 </p>
 <!-- (./images/image099.png){width="3.4479166666666665in" height="3.6770833333333335in"}  -->
 
@@ -4821,14 +4813,13 @@ Let's change the value for it to 'flex-end'.
 
 ##### Output:
 
-![Right-centered number boxes with the flex end aligning method.]
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 100.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image100.png"
   style="width:2.5in;"
-  title=""
-  alt="."
+  title="Right-centered number boxes with the flex end aligning method"
+  alt="Right-centered number boxes with the flex end aligning method."
 </p>
 <!-- (./images/image100.png){width="2.5729166666666665in" height="3.71875in"}  -->
 
@@ -4964,8 +4955,6 @@ inside the flex item box3 class.
 ```
 
 ##### Output:
-
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 104.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
@@ -5130,7 +5119,7 @@ button.
 Next, you can create the navigation bar using flex, which consists of
 several different layouts, and it makes your navigation bar highly
 responsive on different devices.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 107.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image107.png"
@@ -5145,7 +5134,7 @@ Finally, another type of flexbox that is commonly used is an image gallery.
 Flexes helpful here is it can realign itself as you change the size of
 the window. In the next few minutes, you will discover how to create
 these flexboxes to ensure a simple layout.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 108.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image108.png"
@@ -5163,7 +5152,7 @@ After that, I add content inside the body section of our HTML code.
 I first create a container class with a div tag. Inside this container,
 I have three different elements, which are the search icon, the search
 box where I typed my search, and finally the Submit button.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 109.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image109.png"
@@ -5209,7 +5198,7 @@ change.
 
 Another place where flexbox is used quite frequently is in navigation
 menus.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 110.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image110.png"
@@ -5217,10 +5206,10 @@ menus.
   title=""
   alt="."
 </p>
-![](.<!-- /images/image110.png){width="3.4166666666666665in" height="1.5345330271216098in"}  -->
+<!-- /images/image110.png){width="3.4166666666666665in" height="1.5345330271216098in"}  -->
 
 In this case, I created an unordered list that consists of four items.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 111.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image111.png"
@@ -5261,7 +5250,7 @@ horizontal navigation menu.
 
 One final flexbox example that I will demonstrate is a responsive image
 gallery.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 112.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image112.png"
@@ -5286,7 +5275,7 @@ I then reset the basic alignment options for the images by setting the
 border to zero.
 
 Next, let&apos;s focus on the container.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 113.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image113.png"
@@ -5353,7 +5342,7 @@ These bar charts are called flex charts.
 
 The most important property when using flex is the flex property that in
 turn has the following three sub properties.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 114.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image114.png"
@@ -5369,7 +5358,7 @@ flexible items, flex shrink, which specifies how much the item will
 shrink compared to other flexible items.
 
 And flex basis, which specifies the initial length of the flexible item.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 115.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image115.png"
@@ -5391,7 +5380,7 @@ The management of little Lemon decided to publish the results on their
 website to draw attention to their most popular dishes.
 
 I&apos;ve been asked to write code to make this possible.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 116.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image116.png"
@@ -5418,7 +5407,7 @@ add the name of the label preferred dishes.
 
 Next, I create another class called container by typing dot container
 and then I press enter.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 117.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image117.png"
@@ -5431,7 +5420,7 @@ and then I press enter.
 Inside the container I create a class called dish by typing dot dish and
 pressing enter as there are three dishes in the popular list, I copy and
 paste this item twice.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 118.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image118.png"
@@ -5459,7 +5448,7 @@ Finally, I add the respective labels for each dish.
 
 To do this, I add the percentage between the angle brackets at the end
 of each item.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 119.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image119.png"
@@ -5519,7 +5508,7 @@ screen.
 The output preferred dishes and the percentage is 35, 50 and 15 appear
 on my screen, to improve the visuals of my chart and make it easier to
 interpret.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 120.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image120.png"
@@ -5531,7 +5520,7 @@ interpret.
 
 I&apos;m going to add individual colors to the chart items at the bottom of
 my CSS file I press enter twice and type dot pasta.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 121.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image121.png"
@@ -5554,7 +5543,7 @@ background colors as indicated.
 
 What&apos;s important to note here is that as you change the size of the web
 page, the flex adjusts itself while the label remains unchanged.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 122.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image122.png"
@@ -5570,7 +5559,7 @@ bar charts.
 In this example, when I create horizontal objects, I first add four
 containers for male and female and then I set the flex spaces for each
 of them.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 123.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image123.png"
@@ -5594,7 +5583,7 @@ horizontal bar charts.
 
 When I display the output of this code, the male and female classes are
 stacked on top of each other.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 124.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image124.png"
@@ -5606,7 +5595,7 @@ stacked on top of each other.
 
 What alignment to use may or may not come intuitively, but if you look
 at a few more examples, it will start making sense.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 125.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image125.png"
@@ -5643,7 +5632,7 @@ Let&apos;s learn more about layouts.
 
 When someone says the word grid, you probably think of lines that cross
 each other to form squares or rectangles.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 126.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image126.png"
@@ -5661,7 +5650,7 @@ especially when you are working with larger scale layouts.
 
 Columns are the vertical tracks and rows are the horizontal tracks in
 your viewport.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 127.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image127.png"
@@ -5673,7 +5662,7 @@ your viewport.
 
 Grids divide the page into rows and columns, and the space between these
 tracks are called gutters or gaps.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 128.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image128.png"
@@ -5691,7 +5680,7 @@ modify grids.
 
 Let&apos;s examine an example that uses a HTML document to demonstrate how
 to iteratively make changes to a grid.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 129.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image129.png"
@@ -5720,7 +5709,7 @@ necessary for its size.
 
 What&apos;s displayed in the viewport may appear to be a grid, but it&apos;s not
 actually one.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 130.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image130.png"
@@ -5743,7 +5732,7 @@ The display property is also used to set display types for other designs
 such as flex, block, inline, and so on.
 
 It&apos;s usually a part of container elements inside our code.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 131.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image131.png"
@@ -5755,7 +5744,7 @@ It&apos;s usually a part of container elements inside our code.
 
 The updated container now has the display property value set to grid and
 the property values configured for three columns and two rows.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 132.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image132.png"
@@ -5771,7 +5760,7 @@ Let&apos;s examine them.
 
 The grid template columns property has been added into the CSS code to
 set the size of each of the three columns using pixel values.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 133.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image133.png"
@@ -5800,7 +5789,7 @@ actual pixel sizes.
 
 It must be noted though, that fraction and pixel sizes can be used
 interchangeably with both rows and columns.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 134.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image134.png"
@@ -5821,7 +5810,7 @@ more space between the grid cells.
 
 You can also opt to use the auto properties such as grid, auto rows and
 grid auto columns collectively called the implicit grid.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 135.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image135.png"
@@ -5836,7 +5825,7 @@ auto rows. All the rows are now auto-resized to 100 pixels.
 
 Now let&apos;s examine some of the functions that can make configuring the
 layout easier.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 136.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image136.png"
@@ -5855,7 +5844,7 @@ reduced the amount of code you need to write.
 
 Therefore, the repeat function helps reduce redundancy and provides ease
 of code modification.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 137.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image137.png"
@@ -6224,7 +6213,7 @@ Let&apos;s start by examining the grid layout named the pancake stack.
 I&apos;ve opened extra.HTML in Visual Studio Code.
 
 Now I can start adding the different elements.
-!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~ 140.  ~~~~~~~~~~~~~~~~~-->
 <p align="center" width="100%">
 <img src="./images/image140.png"
@@ -6682,22 +6671,22 @@ Here is a list of resources about layouts, flexboxes, grids and
 viewports in HTML and CSS that may be helpful as you continue your
 learning journey.
 
-[Broad overview of layouts in
-CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout)
+<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout">
+Broad overview of layouts in CSS</a>
 
-[Detailed overview of
-flexboxes](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+<a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/">
+Detailed overview of flexboxes</a>
 
-[Detailed overview of grids (1)](https://learncssgrid.com/)
+<a href="https://<a learncssgrid.com/">Detailed overview of grids (1)</a>
 
-[Detailed overview of grids (2)](https://web.dev/learn/css/grid/)
+<a href="https://web.dev/learn/css/grid/">Detailed overview of grids (2)</a>
 
-[Viewports in CSS](https://www.educba.com/css-viewport/)
+<a href="https://www.educba.com/css-viewport/">Viewports in CSS</a>
 
-[Grid layout
-applications](https://1stwebdesigner.com/fascinating-css-grid-layout-examples-and-tutorials/)
+<a href="https://1stwebdesigner.com/fascinating-css-grid-layout-examples-and-tutorials/">
+Grid layout applications</a>
 
-[Overview of different layouts](https://csslayout.io/)
+<a href="https://csslayout.io/">Overview of different layouts</a>
 
 Widely used selectors
 
@@ -8094,7 +8083,14 @@ element.
 The horizontal offset is set to five pixels, the vertical offset is set
 to zero pixels, the blur radius is set to 25 pixels, and the color of
 the shadow is set to black.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 196.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image196.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image196.png){width="6.0in" height="3.038096019247594in"}  -->
 
 I moved back to my HTML file to output this code and click on the
@@ -8103,7 +8099,14 @@ I moved back to my HTML file to output this code and click on the
 The Little Lemon page with blocks of texts displays.
 
 The text looks like regular blocks of texts.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 197.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image197.png"
+  style="width:6.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image197.png){width="6.0in" height="3.038096019247594in"}  -->
 
 But when I hover over a block of code with my mouse, it gets highlighted
@@ -8319,20 +8322,20 @@ Here is a list of resources about selectors, pseudo-classes and
 pseudo-elements in HTML and CSS that may be helpful as you continue your
 learning journey.
 
-[Commonly used
-selectors](https://www.geeksforgeeks.org/10-css-selectors-every-developer-should-know/)
+<a href="https://www.geeksforgeeks.org/10-css-selectors-every-developer-should-know/">
+Commonly used selectors</a>
 
-[Combinator
-selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators)
+<a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Combinators">
+Combinator selectors</a>
 
-[Comprehensive list of
-selectors](https://www.w3schools.com/cssref/css_selectors.asp)
+<a href="https://www.w3schools.com/cssref/css_selectors.asp">
+Comprehensive list of selectors</a>
 
-[Comprehensive list of
-pseudo-classes](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes)
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes">
+Comprehensive list of pseudo-classes</a>
 
-[Comprehensive list of
-pseudo-elements](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements)
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-elements">
+Comprehensive list of pseudo-elements</a>
 
 What is an effect
 
@@ -8359,7 +8362,14 @@ time.
 
 The idea of animation had been around for many years before technology
 was good enough to integrate it into online experiences.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 198.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image198.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image198.png){width="5.0in" height="0.9904757217847769in"}  -->
 
 The graphics interchange form or 'gifs' can arguably be labeled as the
@@ -8437,7 +8447,14 @@ users are scrolling.
 
 Now that you are familiar with some popular effects, let&apos;s briefly
 visit the pros and cons of adding effects on web pages.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 199.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image199.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image199.png){width="5.0in" height="1.5174606299212599in"}  -->
 
 The primary driving factor of web pages these days is to attract the
@@ -8457,7 +8474,14 @@ cause your web page to load slowly in areas with low bandwidth.
 
 Nonetheless, effects improve online experiences in general and are
 especially used to create intuitive navigation.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 200.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image200.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image200.png){width="3.0in" height="3.1425339020122482in"}  -->
 You should now understand what effects and animations are.
 
@@ -8482,7 +8506,14 @@ also make you look dull and cause users to lose attention.
 
 With the help of CSS, you can make the most of texts by adding
 interesting effects.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 201.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image201.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image201.png){width="5.0in" height="3.6455030621172355in"}  -->
 
 First, I will explain how to use the text-overflow property that
@@ -8507,13 +8538,28 @@ scroll to add a scroll bar.
 
 It is important to note that the text-overflow property here is set to
 ellipsis.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 202.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image202.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image202.png){width="4.0in" height="0.7689818460192476in"}  -->
 An ellipsis is three dots that represent the texts that is clipped.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 203.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image203.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
+<!-- ![](./images/image203.png){width="4.0in" height="0.7689818460192476in"}  -->
 
-![](./images/image203.png){width="4.0in"
-height="0.7689818460192476in"}If I hover over the overflowing text which
-is present inside, the hidden text is displayed.
+If I hover over the overflowing text which is present inside, the hidden text is 
+displayed.
 
 As soon as I move the cursor away from the block, the text is again
 substituted by the ellipsis.
@@ -8525,7 +8571,14 @@ In this example, the additional content is truncated to fit within the
 limits of the box. (no ellipsis).
 
 If I hover over with the cursor, the clipped text is displayed.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 204.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image204.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image204.png){width="4.0in" height="4.245989720034996in"}  -->
 In the third example, I demonstrate how to create vertical text.
 
@@ -8536,7 +8589,14 @@ I do this by putting those words inside a separate p tag with class
 named vert.
 
 Then in the CSS code, I set the writing mode property to be vertical-rl.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 205.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image205.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image205.png){width="4.0in" height="4.162047244094488in"}  -->
 The next example demonstrates the word wrap property.
 
@@ -8552,7 +8612,14 @@ As a result, the words illustration and property are both broken up
 across multiple lines.
 
 In the next two examples, I will add text effects using simple CSS code.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 206.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image206.png"
+  style="width:2.4in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image206.png){width="2.40625in" height="0.8229166666666666in"}  -->
 In this example, I use a property called text shadow, which has a shorthand with four values.
 
@@ -8562,7 +8629,14 @@ shadow.
 The second is the y-coordinate, which represents the vertical shadow.
 
 The third is the blur radius, and the fourth is the shadow color.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 207.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image207.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image207.png){width="5.0in" height="2.854640201224847in"}  -->
 
 This next example explores an extension of the same idea.
@@ -8571,7 +8645,14 @@ My HTML code has two heading tags, each with the class name glow.
 
 In the corresponding CSS code, I&apos;ve added the text shadow effects for
 that class.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 208.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image208.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image208.png){width="3.0in" height="1.78125in"}  -->
 I can use the output to determine whether I need to adjust the color effects
 until I&apos;m happy with it.
@@ -8675,7 +8756,14 @@ which you can create basic animations.
 
 In this module, you will learn how to use the transform and transition
 properties.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 209.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image209.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image209.png){width="4.0in" height="1.5043383639545056in"}  -->
 
 The Syntax of the transform and transition properties are similar.
@@ -8696,7 +8784,14 @@ To do this, developers use the transition property in conjunction with
 the transformed property.
 
 Let&apos;s explore how these two properties work together.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 210.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image210.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image210.png){width="3.0in" height="2.5833333333333335in"}  -->
 
 For example, you can set up your H one elements to rotate zero degrees
@@ -8705,7 +8800,14 @@ property, you can let the element rotate to 20 degrees when the mouse
 hovers over it.
 
 Without a transition, the rotation will be instant.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 211.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image211.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image211.png){width="3.0in" height="2.308860454943132in"}  -->
 
 But by adding the transition property with the value transform to s the
@@ -8713,7 +8815,14 @@ rotation will animate over two seconds.
 
 Now that you know the basics about the transform and transition
 properties, let&apos;s explore a practical example.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 212.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image212.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image212.png){width="4.0in" height="3.401709317585302in"}  -->
 
 I already set up an html file that contains a div tag with the class
@@ -8722,7 +8831,15 @@ container and in it to other div tags.
 The first div tag contains the letter A with a class called A.
 
 The second contains the letter B with a class called B.
-
+properties, let&apos;s explore a practical example.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 213.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image213.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image213.png){width="3.0in" height="2.2823917322834646in"}  -->
 
 Let&apos;s view the CSS file.
@@ -8735,7 +8852,15 @@ This is just to add a space in between the developments.
 First, I add the transform property to the A class.
 
 There are a number of key word and function values inside this property.
-
+properties, let&apos;s explore a practical example.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 214.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image214.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image214.png){width="3.0in" height="2.4924475065616796in"}  -->
 I choose skew X from the suggestion list
 that appears this will tilt the letter on its X access.
@@ -8748,7 +8873,15 @@ Next, I add a transformed property to the B.
 Class as well.
 
 But this time I use the keyword, rotate and add the value of 20 degrees.
-
+properties, let&apos;s explore a practical example.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 215.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image215.png"
+  style="width:2.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image215.png){width="2.5in" height="2.0770395888013997in"}  -->
 
 This will cause a different effect.
@@ -8761,7 +8894,15 @@ Since these transform effects are instantaneous, you do not notice them
 as they are applied to change this.
 
 You need to add the transition property.
-
+properties, let&apos;s explore a practical example.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 216.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image216.png"
+  style="width:2.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image216.png){width="2.5in" height="2.2356496062992126in"}  -->
 
 I add the transition property to both classes with the value of five
@@ -8779,7 +8920,15 @@ Inside a div tag element.
 First, I will write the rules for the box, then I will add rules using a
 hover pseudo class and grouping selectors to perform transformations on
 the box.
-
+properties, let&apos;s explore a practical example.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 217.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image217.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image217.png){width="5.0in" height="2.6142858705161856in"}  -->
 The initial output will be a green box.
 
@@ -8813,7 +8962,15 @@ I add a class selector for the box and then add the hover pseudo class.
 This is so that the transform effect that I will add.
 
 Next will only happen when I hover over the box.
-
+properties, let&apos;s explore a practical example.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 218.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image218.png"
+  style="width:5.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image218.png){width="5.0in" height="2.6142858705161856in"}  -->
 
 Let&apos;s add the transformed property.
@@ -8873,7 +9030,15 @@ animation property.
 
 But to control the execution of the steps of the animation, they use the
 &#64;keyframe rule.
-
+properties, let&apos;s explore a practical example.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 219.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image219.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image219.png){width="4.0in" height="1.2076192038495188in"}  -->
 Next, let&apos;s explore the syntax of the &#64;keyframe rule, and the animation property.
 
@@ -8882,12 +9047,27 @@ individual keyframes for the animation.
 
 You define each keyframe with a keyframe selector and CSS styles for
 that keyframe.
-
+properties, let&apos;s explore a practical example.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 220.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image220.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image220.png){width="4.0in" height="1.856084864391951in"}  -->
 The &#64;keyframe rule can also use the optional keywords, from and to, to show transitions.
 
 The animation name links the animation to a specific keyframe rule.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 221.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image221.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image221.png){width="4.0in" height="1.7866666666666666in"}  -->
 The animation property has a number of sub
 properties like animation name, animation delay, and so on.
@@ -8899,7 +9079,14 @@ But say you want one or more of them to have the default settings, you
 simply leave them out.
 
 However, each of the sub properties can be listed individually as well.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 222.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image222.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image222.png){width="3.0in" height="2.4266666666666667in"}  -->
 
 To understand animation cues, let&apos;s explore a simple animation of a
@@ -8916,7 +9103,14 @@ hand class with its own CSS rules.
 But since the focus of this lesson is to understand the animation part
 of the CSS, the basic styling properties of the clock are not covered
 now.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 223.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image223.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image223.png){width="3.0in" height="1.4677099737532808in"}  -->
 All that you need to know is that you
 create two classes, clock and hand, and insert style rules that specify
@@ -8943,7 +9137,14 @@ function.
 
 Since the other animation properties are not mentioned, they are set to
 the default values.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 224.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image224.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image224.png){width="3.0in" height="1.4677099737532808in"}  -->
 Finally, you can add the &#64;keyframe rule.
 
@@ -9143,7 +9344,18 @@ animation property. 
 ```
 
 ##### And this is the output: 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 225226.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image225.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+<img src="./images/image226.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image225.png){width="3.0in" height="1.44in"}  -->
 <!-- ![](./images/image226.png){width="3.0in" height="1.44in"}  -->
 
@@ -9181,7 +9393,18 @@ it will have the same output.
 ```
 
 ##### Output: 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 227/228.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image227.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+<img src="./images/image228.png"
+  style="width:3.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image227.png){width="3.0in" height="1.759047462817148in"}  -->
 <!-- ![](./images/image228.png){width="3.0in" height="1.759047462817148in"}  -->
 
@@ -9214,7 +9437,14 @@ file named index.html.
 
 In the head element, I added a link element to reference a CSS file
 named styles.css.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 229.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image229.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image229.png){width="4.0in" height="2.4507655293088364in"}  -->
 
 First, I&apos;ll add the HTML element that will be animated.
@@ -9222,7 +9452,14 @@ First, I&apos;ll add the HTML element that will be animated.
 In this case, the element will represent the bouncing ball.
 
 I add a div element to the body element and set its ID attribute to ball.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 230.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image230.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image230.png){width="4.0in" height="3.6355555555555554in"}  -->
 Now I open styles.css.
 
@@ -9266,14 +9503,28 @@ like a circle.
 
 Finally, I set the background color property to #62687F to fill in the
 color of the circle.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 231.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image231.png"
+  style="width:1.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image231.png){width="1.5in" height="1.3216458880139983in"}  -->
 I save the file and open index.html in live preview.
 
 Great, the ball is rendering correctly.
 
 Now to connect the animation to the element, I open styles.css again.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 232.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image232.png"
+  style="width:3.5in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image232.png){width="3.5in" height="3.548386920384952in"}  -->
 In the CSS rule for the ball element, I add
 the animation property and set its value to bounce 2s.
@@ -9351,7 +9602,7 @@ transform: transform function-values
 > }
 ```
 
-#### <b>Function-value type: [matrix()]{.mark} </b>
+#### <b>Function-value type: [matrix()]</b>
 
 #### Variations: matrix(), matrix3d()
 
@@ -9764,32 +10015,26 @@ which are not available in conventional CSS. 
 Here is a list of resources about animation and keyframes in HTML and
 CSS that may be helpful as you continue your learning journey.
 
--   [Transform and transition
-    property](https://www.lambdatest.com/blog/css-transforms-and-transitions-property/)
-
--   [Detailed information about
-    animation](https://www.w3schools.com/css/css3_animations.asp)
-
--   [Detailed information about
-    &#64;keyframes](https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes)
-
--   [More advanced examples for adding text effects
-    (1)](https://uicookies.com/css-text-effects/)
-
--   [More advanced examples for adding text effects
-    (2)](https://freefrontend.com/css-typing-text/)
-
--   [More advanced examples for adding text effects
-    (3)](https://dev.to/kiranrajvjd/simple-text-effects-using-css-3dgp)
-
--   [Types of effects added to websites
-    (1)](https://www.opendesignsin.com/blog/10-web-design-effects-to-enhance-your-website/)
-
--   [Types of effects added to websites
-    (2)](https://goingclear.com/website-effects/)
-
--   [Collection of examples using
-    HTML/CSS](https://freefrontend.com/css-animation-examples/)
+<ul>
+  <li><a href="https://www.lambdatest.com/blog/css-transforms-and-transitions-property/">
+    Transform and transition property</a></li>
+  <li><a href="https://www.w3schools.com/css/css3_animations.asp">
+    Detailed information about animation</a></li>
+  <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes">
+    Detailed information about &#64;keyframes</a></li>
+  <li><a href="https://uicookies.com/css-text-effects/">
+    More advanced examples for adding text effects(1)</a></li>
+  <li><a href="https://freefrontend.com/css-typing-text/">
+    More advanced examples for adding text effects(2)</a></li>
+  <li><a href="https://dev.to/kiranrajvjd/simple-text-effects-using-css-3dgp">
+    More advanced examples for adding text effects(3)</a></li>
+  <li><a href="https://www.opendesignsin.com/blog/10-web-design-effects-to-enhance-your-website/">
+    Types of effects added to websites(1)</a></li>
+  <li><a href="https://goingclear.com/website-effects/">
+    Types of effects added to websites(2)</a></li>
+  <li><a href="https://freefrontend.com/css-animation-examples/">
+    Collection of examples using HTML/CSS</a></li>
+</ul>
 
 #### [Common errors]
 
@@ -10215,17 +10460,36 @@ of specific elements on your web page. You can also access this option
 by hovering over a specific element on your page that will display its
 properties to you.
 
-[Hovering Icon]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 233.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image233.png"
+  style="width:1.0in;"
+  title="Hovering Icon"
+  alt="Hovering Icon."
+</p>
 <!-- (./images/image233.png){width="1.0in" height="0.8010444006999126in"}  -->
-
-![Targetting Icon]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 234.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image234.png"
+  style="width:0.4in;"
+  title="Targeting Icon"
+  alt="Targeting Icon."
+</p>
 <!-- (./images/image234.png){width="0.4in" height="0.32257983377077865in"}  -->
 
 On selecting the desired element, one way to use the Elements tab for
 debugging is by right-clicking on that element, scrolling to 'Copy' and
 then selecting an option from the drop-down list that appears.
-
-[Display of submenu from copy option]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 235.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image235.png"
+  style="width:5.0in;"
+  title="Display of submenu from copy option"
+  alt="Display of submenu from copy option."
+</p>
 <!-- (./images/image235.png){width="5.0in" height="2.9711570428696414in"}  -->
 
 This way, you can explore the isolated code to find the problem.
@@ -10233,8 +10497,14 @@ This way, you can explore the isolated code to find the problem.
 Additionally, you can add the Breakpoint option that is more useful for
 interactive pages by selecting the 'Break on' option and selecting an
 option from the dropdown list that appears.
-
-[Break on Submenu options]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 236.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image236.png"
+  style="width:5.0in;"
+  title="Break on Submenu options"
+  alt="Break on Submenu options."
+</p>
 <!-- (./images/image236.png){width="5.0in" height="2.7334055118110236in"}  -->
 
 Nowadays, some browsers are providing options such as Cumulative Layout
@@ -10242,8 +10512,14 @@ Shift (CLS) that helps determine the overall efficiency of a web page.
 
 You can also bring up the element families by clicking on the horizontal
 bar:
-
-[Horizontal bar and element families]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 237.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image237.png"
+  style="width:6.0in;"
+  title="Horizontal bar and element families"
+  alt="Horizontal bar and element families."
+</p>
 <!-- (./images/image237.png){width="6.0in" height="0.39473206474190725in"}  -->
 
 One very useful feature is the ability to make changes in your code
@@ -10802,29 +11078,28 @@ The following resources will be helpful as additional references in
 dealing with the different concepts related to the topics you have
 covered in this lesson. 
 
--   [Website to check for browser-compatibility](https://caniuse.com/)
+-   <a href="https://caniuse.com/">Website to check for browser-compatibility</a>
 
--   [Official website for Stylelint](https://stylelint.io/)
+-   <a href="https://stylelint.io/">Official website for Stylelint</a>
 
--   [Widely used linter website to check CSS code](http://csslint.net/)
+-   <a href="http://csslint.net/">Widely used linter website to check CSS code</a>
 
--   [CSS Validator to check accuracy of CSS
-    code](https://jigsaw.w3.org/css-validator/)
+-   <a href="https://jigsaw.w3.org/css-validator/">
+      CSS Validator to check accuracy of CSS code</a>
 
--   [Dealing with specificity
-    issues](https://www.freecodecamp.org/news/how-to-tackle-css-specificity-issues-and-when-to-use-the-important-keyword-b54123995e1a/)
+-   <a href="https://www.freecodecamp.org/news/how-to-tackle-css-specificity-issues-and-when-to-use-the-important-keyword-b54123995e1a/">
+      Dealing with specificity issues
 
--   [Beginner errors made in
-    CSS](https://www.sitepoint.com/study-errors-beginners-make-learning-html-css/)
+-   <a href="https://www.sitepoint.com/study-errors-beginners-make-learning-html-css/">
+      Beginner errors made in CSS</a>
 
--   [Knowledge-based mistakes to avoid in
-    CSS](https://www.webfx.com/blog/web-design/12-common-css-mistakes-web-developers-make/)
+-   <a href="https://www.webfx.com/blog/web-design/12-common-css-mistakes-web-developers-make/">
+      Knowledge-based mistakes to avoid in CSS</a>
 
--   [How to use Webkit in your CSS
-    code](https://www.simplilearn.com/tutorials/css-tutorial/webkit-css)
+-   <a href="https://www.simplilearn.com/tutorials/css-tutorial/webkit-css">How to use Webkit in your CSS code</a>
 
--   [Commonly-occurring browser issues in
-    CSS](https://www.lambdatest.com/blog/top-5-browser-compatibility-issues-in-css-for-developers-in-2021/)
+-   <a href="https://www.lambdatest.com/blog/top-5-browser-compatibility-issues-in-css-for-developers-in-2021/">
+    Commonly-occurring browser issues in CSS
 
 ##### Course recap
 
@@ -10923,7 +11198,14 @@ Best of luck in the future.
 By completing the lessons in this course, you have acquired the
 necessary HTML and CSS skills and knowledge to develop a home page with
 a header, main content and footer.
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 238.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image238.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 <!-- ![](./images/image238.png){width="4.0in" height="2.466454505686789in"}  -->
 
 You will have to decide whether you are going to use a grid or flexbox
@@ -10963,9 +11245,9 @@ The purpose of this graded assessment is to check your knowledge and
 understanding of the key learning objectives of this course. And what
 better way to do that than by applying your newly-learned skills in a
 practical way? You will develop a home page for one of four fictional
-clients. And you can read more about them in the [Subject
-selection](https://www.coursera.org/teach/html-and-css-in-depth/KYd9Lr9AEeyUxgoSRgtsGw/content/edit/supplement/bpM1T)
-reading. The client you choose will determine what links, pictures and
+clients. And you can read more about them in the 
+<a href="https://www.coursera.org/teach/html-and-css-in-depth/KYd9Lr9AEeyUxgoSRgtsGw/content/edit/supplement/bpM1T">
+Subject selection</a> reading. The client you choose will determine what links, pictures and
 colors you will use. You are free to use your creativity but the home
 page needs to meet certain criteria regarding the following:
 
@@ -11013,8 +11295,14 @@ They are:
 Read on to find out more about them.
 
 ##### <b>Retail: Lucky Shrub</b>
-
-[Logo of the fictional client Lucky Shrub]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 239.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image239.png"
+  style="width:0.5in;"
+  title="Logo of the fictional client Lucky Shrub"
+  alt="Logo of the fictional client Lucky Shrubv."
+</p>
 <!-- (./images/image239.png){width="0.5in" height="1.0057808398950132in"}  -->
 
 Based in Tuscon, Arizona, Lucky Shrub is a medium-sized garden design
@@ -11036,7 +11324,14 @@ nursery.
 [ZIP File]{.underline}
 
 #### <b>Professional services: Hair Day</b> 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 240.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image240.png"
+  style="width:2.0in;"
+  title=""
+  alt="."
+</p>
 [Logo of the fictional client Hair day]
 <!-- (./images/image240.png){width="2.0in" height="1.3277668416447943in"}  -->
 
@@ -11063,7 +11358,14 @@ manicurist and one make-up artist.
 [ZIP File]{.underline}
 
 #### <b>Restaurant: Little Lemon</b> 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 241.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image241.png"
+  style="width:4.0in;"
+  title=""
+  alt="."
+</p>
 [Logo of the fictional client Little Lemon]
 <!-- (./images/image241.png){width="4.0in" height="1.0925109361329834in"}  -->
 
@@ -11312,31 +11614,54 @@ Select the download based on your operating system.
 <b>Step 2:</b> Open the file to install it once the download is complete.
 
 <b>Step 3:</b> Review and accept the license agreement, then click Next.
-
-[Set up Visual Studio Code on Microsoft Step 3]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 242.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image242.png"
+  style="width:5.0in;"
+  title="Set up Visual Studio Code on Microsoft Step 3"
+  alt="Set up Visual Studio Code on Microsoft Step 3."
+</p>
 <!-- (./images/image242.png){width="5.0in" height="4.090258092738408in"}  -->
 
 <b>Step 4:</b> Keep the default value when prompted for the destination
 location and click next.
-
-[Set up Microsoft Visual Studio Code Step 4]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 243.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image243.png"
+  style="width:5.0in;"
+  title="Set up Microsoft Visual Studio Code Step 4"
+  alt="Set up Microsoft Visual Studio Code Step 4."
+</p>
 <!-- (./images/image243.png){width="5.0in" height="4.090258092738408in"}  -->
 
 <b>Step 5:</b> On the additional tasks view, make sure that <b>Add to PATH</b>
 is selected. 
-
-[Set up Microsoft Visual Studio Code Step 5]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 244.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image244.png"
+  style="width:5.0in;"
+  title="Set up Microsoft Visual Studio Code Step 5"
+  alt="Set up Microsoft Visual Studio Code Step 5."
+</p>
 <!-- (./images/image244.png){width="5.0in" height="3.870152012248469in"}  -->
 
 <b>Step 6:</b> Click next.
 
 <b>Step 7:</b> Click install when the ready to install page appears.
-
-[Set up Microsoft Visual Studio Code Step 7]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 245.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image245.png"
+  style="width:5.0in;"
+  title="Set up Microsoft Visual Studio Code Step 7"
+  alt="Set up Microsoft Visual Studio Code Step 7."
+</p>
 <!-- (./images/image245.png){width="5.0in" height="4.090258092738408in"}  -->
 
-<b>Step 8:</b> Click finish once completed, and the application will
-launch.
+<b>Step 8:</b> Click finish once completed, and the application will launch.
 
 #### Mac
 
@@ -11348,19 +11673,23 @@ choose the Universal option.
 
 <b>Step 3:</b> Double-click the zip file to extract the contents.
 
-<b>Step 4:</b> Drag and drop the .app file to the application link in
-Finder below.
-
-[Set up Visual Studio Code on Mac Step 4]
+<b>Step 4:</b> Drag and drop the .app file to the application link in Finder below.
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 246.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image246.png"
+  style="width:5.0in;"
+  title="Set up Visual Studio Code on Mac Step 4"
+  alt="Set up Visual Studio Code on Mac Step 4."
+</p>
 <!-- (./images/image246.png){width="5.0in" height="1.4595898950131234in"}  -->
 
 <b>Step 5:</b> Open the app.
 
 #### <b>Linux</b>
 
-Please refer to the [official Linux installation
-guide](https://code.visualstudio.com/docs/setup/linux) for Visual Studio
-Code.
+Please refer to the <a href="https://code.visualstudio.com/docs/setup/linux">
+official Linux installation guide</a> for Visual Studio Code.
 
 #### Selecting a working directory
 
@@ -11469,9 +11798,16 @@ can be used for maximum appeal. These are: 
 -   <b>Rectangle</b>
 
 The different combinations are represented in the image below.
-
-[Different color combinations on the color wheel that are based on the
-relative position of colors to others.]
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~ 247.  ~~~~~~~~~~~~~~~~~-->
+<p align="center" width="100%">
+<img src="./images/image247.png"
+  style="width:6.5in;"
+  title="Different color combinations on the color wheel that are based on the 
+    relative position of colors to others"
+  alt="Different color combinations on the color wheel that are based on the relative 
+    position of colors to others."
+</p>
 <!-- (./images/image247.png){width="6.5in" height="3.587060367454068in"}  -->
 
 Image source:
